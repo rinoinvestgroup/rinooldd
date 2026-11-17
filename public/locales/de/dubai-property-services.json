@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "title": "Immobiliendienstleistungen in Dubai | Kaufen, Verkaufen & Mieten",
+    "description": "Rino Invest Group Ihr vertrauenswürdiger Immobilienpartner in Dubai seit über 20 Jahren. Fachkundige Beratung für den Kauf, Verkauf und die Vermietung von Premium-Immobilien in Dubai.",
+    "keywords": "Dubai Immobilien, Immobilie kaufen Dubai, Immobilie verkaufen Dubai, Miete Dubai, Immobilien Dubai, Rino Invest Group, Dubai Investition, Palm Jumeirah, Downtown Dubai, Dubai Marina"
+  },
+  "hero": {
+    "welcomeTo": "Willkommen bei",
+    "companyName": "Rino Invest Group",
+    "description": "Ihr vertrauenswürdiger Immobilienpartner in Dubai. Wir begleiten Investoren, Eigenheimbesitzer und Mieter bei jedem Schritt ihrer Immobilienreise und liefern",
+    "lucrativeInvestments": "lukrative Investitionen",
+    "dreamHomes": "Traumhäuser",
+    "highReturnRentals": "Mietportfolios mit hoher Rendite",
+    "propertiesSold": "Verkaufte Immobilien",
+    "happyClients": "Zufriedene Kunden",
+    "yearsInDubai": "Jahre in Dubai",
+    "exploreServices": "Unsere Dienstleistungen entdecken"
+  },
+  "form": {
+    "title": "Kostenlose Beratung erhalten",
+    "subtitle": "Erzählen Sie uns von Ihren Immobilienzielen und wir melden uns innerhalb von 24 Stunden bei Ihnen.",
+    "fullName": "Vollständiger Name",
+    "email": "E-Mail-Adresse",
+    "phone": "Telefonnummer",
+    "interestedIn": "Ich bin interessiert an",
+    "message": "Nachricht",
+    "messagePlaceholder": "Erzählen Sie uns von Ihren Immobilienzielen...",
+    "submit": "Kostenlose Beratung erhalten",
+    "sending": "Wird gesendet…",
+    "consent": "Mit dem Absenden stimmen Sie zu, von Rino Invest Group bezüglich Ihrer Anfrage kontaktiert zu werden.",
+    "successTitle": "Vielen Dank!",
+    "successMessage": "Ihre Anfrage wurde empfangen. Unser Team wird sich innerhalb von 24 Stunden bei Ihnen melden.",
+    "errorDefault": "Etwas ist schiefgelaufen. Bitte versuchen Sie es später erneut.",
+    "searchCountry": "Land suchen...",
+    "noResults": "Keine Ergebnisse",
+    "options": {
+      "generalInquiry": "Allgemeine Anfrage",
+      "buyingProperty": "Immobilie kaufen",
+      "sellingProperty": "Immobilie verkaufen",
+      "leasingRenting": "Miete / Leasing",
+      "investmentConsultation": "Investitionsberatung"
+    }
+  },
+  "services": {
+    "sectionLabel": "Unsere Dienstleistungen",
+    "sectionTitle": "Kaufen, Verkaufen & Mieten mit Vertrauen",
+    "buy": {
+      "title": "Kaufen Sie Ihre Traumimmobilie",
+      "description": "Entdecken Sie Dubais begehrteste Viertel von Downtown Dubai und Palm Jumeirah bis Dubai Marina.",
+      "feature1": "Kuratierte Angebote passend zu Ihrem Lebensstil und Ihren Zielen",
+      "feature2": "Fachkundige Verhandlung für die besten Deals",
+      "feature3": "Vollständige Begleitung durch rechtliche und Eigentumsprozesse",
+      "highlight": "Investieren Sie in Wert, Wachstum und Seelenfrieden."
+    },
+    "sell": {
+      "title": "Verkaufen mit Vertrauen",
+      "description": "Lassen Sie unsere 20-jährige Markterfahrung Ihnen helfen, den bestmöglichen Preis zu erzielen.",
+      "feature1": "Genaue Bewertungen basierend auf aktuellen Markttrends",
+      "feature2": "Professionelles Marketing, Fotografie und Angebotsverwaltung",
+      "feature3": "Zugang zu qualifizierten Käufern und Investoren",
+      "highlight": "Ihre Immobilie sticht hervor und verkauft sich schnell."
+    },
+    "lease": {
+      "title": "Vermieten mit hohem ROI",
+      "description": "Wir sind spezialisiert auf Mietverwaltung und renditestarke Vermietungsmöglichkeiten.",
+      "feature1": "Umfassendes Leasing: Preisgestaltung, Marketing, Prüfung und Verträge",
+      "feature2": "Datenbasierte Erkenntnisse zur Maximierung der Mietrendite",
+      "feature3": "Kontinuierliche Verwaltung für eine sorgenfreie Erfahrung",
+      "highlight": "Ihre Immobilie arbeitet härter, damit Sie mehr verdienen."
+    }
+  },
+  "whyChoose": {
+    "sectionLabel": "Warum uns wählen",
+    "sectionTitle": "Warum Rino Invest Group wählen?",
+    "experience": {
+      "title": "Über 20 Jahre Erfahrung",
+      "description": "Vertrauenswürdige Immobilienexpertise in Dubais dynamischem Immobilienmarkt."
+    },
+    "experts": {
+      "title": "Engagierte Experten",
+      "description": "Immobilienspezialisten mit lokalen und globalen Marktkenntnissen."
+    },
+    "trackRecord": {
+      "title": "Nachgewiesene Erfolgsbilanz",
+      "description": "Hunderte erfolgreicher Verkäufe, Investitionen und zufriedener Kunden."
+    },
+    "transparency": {
+      "title": "Transparenz & Vertrauen",
+      "description": "Kundenzufriedenheit im Mittelpunkt unseres Handelns."
+    }
+  },
+  "about": {
+    "sectionLabel": "Über Rino Invest Group",
+    "sectionTitle": "Mehr als Immobilienmakler — Wir sind Ihre Partner für Wachstum",
+    "description": "Seit über zwei Jahrzehnten begleitet Rino Invest Group Investoren, Eigenheimbesitzer und Mieter bei jedem Schritt ihrer Immobilienreise in Dubai. Unser tiefes Wissen über den lokalen Markt und unser Engagement für Exzellenz haben Hunderten von Kunden geholfen, Immobilien zu finden, die wirklich liefern.",
+    "point1": "Lukrative Investitionsmöglichkeiten in ganz Dubai",
+    "point2": "Traumhäuser in Premium-Vierteln",
+    "point3": "Mietportfolios mit hoher Rendite und fachkundiger Verwaltung",
+    "point4": "Umfassende Unterstützung von der Beratung bis zur Übergabe",
+    "imageAlt": "Skyline von Dubai mit Burj Khalifa und modernen Luxusgebäuden"
+  },
+  "cta": {
+    "title": "Starten Sie Ihre Immobilienreise heute",
+    "description": "Dubais Immobilienmarkt floriert und Chancen warten. Ob Sie kaufen, verkaufen oder mieten möchten, unser erfahrenes Team ist bereit, Ihnen bei einer klugen Entscheidung zu helfen.",
+    "consultation": "Kostenlose Beratung erhalten",
+    "callUs": "Jetzt anrufen",
+    "emailUs": "E-Mail senden"
+  }
+}

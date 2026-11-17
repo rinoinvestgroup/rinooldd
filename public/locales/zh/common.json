@@ -1,0 +1,1224 @@
+{
+  "christmas": {
+    "greeting": "🎅 圣诞快乐，节日快乐！🎁",
+    "message": "祝您在这个节日季节里充满欢乐、平安和繁荣",
+    "popup": {
+      "title": "圣诞快乐！",
+      "message": "愿这个节日季节为您带来欢乐、平安和繁荣。感谢您成为Rino Properties大家庭的一员！",
+      "from": "来自我们所有人",
+      "explore": "探索我们的房产 🏡"
+    }
+  },
+  "nav": {
+    "home": "首页",
+    "about": "关于我们",
+    "properties": "房产",
+    "blog": "洞察", 
+    "contact": "联系我们",
+    "agents": "经纪人",
+    "sell": "出售",
+    "allProperties": "全部房产",
+    "spainProperties": "西班牙房产",
+    "dubaiProperties": "迪拜房产",
+    "offPlan": "期房",
+    "commercial": "商业",
+    "buy": "购买",
+    "rent": "租赁",
+    "internationalProperties": "国际房产"
+  },
+  "hero": {
+    "title": "迪拜和西班牙豪华房产的信赖伙伴",
+    "subtitle": "优质住宅和明智投资，为追求房地产最佳选择的挑剔买家量身定制。",
+    "enterSpain": "进入西班牙",
+    "enterUAE": "进入迪拜",
+    "searchPlaceholder": "搜索房产...",
+    "searchButton": "搜索房产"
+  },
+  "blog": {
+    "title": "博客",
+    "readMore": "阅读更多",
+    "publishedOn": "发布于",
+    "relatedPosts": "相关文章",
+    "latestPosts": "最新文章",
+    "section": {
+      "title": "我们的最新",
+      "titleHighlight": "博客",
+      "loadingError": "目前无法加载博客文章。",
+      "noPosts": "没有可用的博客文章。",
+      "byAuthor": "作者",
+      "exploreAll": "探索所有文章"
+    },
+    "page": {
+      "title": "房地产",
+      "titleHighlight": "博客",
+      "heroAlt": "房地产博客",
+      "searchPlaceholder": "搜索文章...",
+      "showing": "显示",
+      "of": "共",
+      "articles": "篇文章",
+      "offlineSearchTitle": "使用离线搜索",
+      "offlineSearchMessage": "我们与搜索服务的连接出现问题。结果在本地过滤，可能有限。",
+      "loadingTitle": "正在加载文章...",
+      "loadingMessage": "请稍候，我们正在获取最新内容",
+      "errorTitle": "加载文章时出错",
+      "errorCategoryMessage": "加载文章时出现问题",
+      "errorSuggestion": "您可以尝试查看所有文章或其他类别。",
+      "viewAllArticles": "查看所有文章",
+      "noArticlesTitle": "未找到文章",
+      "noArticlesMessage": "尝试调整您的搜索或筛选条件",
+      "byAuthor": "作者"
+    },
+    "filters": {
+      "all": "全部"
+    },
+    "detail": {
+      "loading": "正在加载文章...",
+      "loadingMessage": "请稍候，我们正在获取内容",
+      "notFound": "未找到文章",
+      "notFoundMessage": "无法找到请求的文章",
+      "backToBlog": "返回博客",
+      "views": "次浏览",
+      "by": "作者",
+      "marketAnalysis": "市场分析",
+      "marketAnalysisContent": "我们的综合分析显示关键市场有强劲的增长指标。市场趋势继续青睐在具有优秀连接性和基础设施发展的黄金地段进行战略投资。",
+      "investmentStrategies": "投资策略",
+      "investmentStrategiesContent": "战略性房地产投资需要仔细的市场分析和时机把握。我们经过验证的策略帮助投资者通过多样化的投资组合方法最大化回报，同时最小化风险。",
+      "legalFramework": "法律框架",
+      "legalFrameworkContent": "了解房地产投资的法律方面对成功至关重要。我们的综合指南涵盖了房地产投资的所有基本法律要求和程序。",
+      "lifestyleBenefits": "生活方式优势",
+      "lifestyleBenefitsContent": "除了投资回报，房地产还提供卓越的生活方式优势。发现正确的房产选择如何在建立长期财富的同时提升您的生活质量。",
+      "interestedIn": "对以下内容感兴趣",
+      "expertConsultation": "与我们的专家联系，获取独家投资机会和详细的房产见解。",
+      "getConsultation": "获取专家咨询",
+      "defaultContent": "关于博客文章的详细内容将在此处显示。本节提供与博客主题相关的深入信息和见解。"
+    }
+  },
+  "about": {
+    "heading": "重新定义奢华生活的艺术",
+    "subheading": "里诺房产是一家总部位于马贝拉和迪拜的豪华房地产公司。",
+    "description1": "里诺房产是一家总部位于迪拜和西班牙的豪华房地产公司。我们提供国际专业知识、独家房源和卓越豪华服务的完美结合。",
+    "description2": "从买卖到投资咨询、法律顾问和礼宾支持，我们的目标很简单 - 通过个性化服务提升您的生活质量。",
+    "description3": "无论您是在寻找梦想家园、下一项投资还是度假胜地 - 我们都在这里让整个过程变得轻松、透明和卓越。奢华不仅仅是一处房产。有了里诺，这是整个体验。",
+    "ctaButton": "了解我们",
+    "page": {
+      "title": "关于我们",
+      "subtitle": "里诺房产 – 重新定义奢华，树立新标杆",
+      "scroll": "滚动",
+      "companyName": "里诺房产！",
+      "companyDescription1": "里诺房产是里诺投资集团的一部分，自2024年以来一直在塑造豪华房地产市场，在海湾合作委员会和欧洲各地提供标志性的住宅、商业和休闲物业。",
+      "companyDescription2": "我们的办事处战略性地位于西班牙和迪拜，里诺房产提供全面的服务套件，旨在满足您的所有房产需求。这些服务包括房产销售、房产转售、房产管理、度假屋和专门的礼宾服务。",
+      "companyDescription3": "我们经验丰富的团队拥有超过10名房产专家，带来丰富的知识和专业技能，有效地与全球客户沟通，语言包括西班牙语、阿拉伯语、中文、德语、他加禄语、乌尔都语和英语。",
+      "getInTouch": "联系我们",
+      "vision": {
+        "title": "我们的",
+        "titleHighlight": "愿景",
+        "description1": "我们的愿景是成为西班牙和迪拜值得信赖的房地产合作伙伴，我们的目标是提供100%的客户满意度。奢华品味，皇室待遇。这是我们的承诺。",
+        "description2": "里诺房产被认为是迪拜最好的房产管理公司之一，提供房产管理咨询服务，帮助全球客户建立和多样化他们强大的房地产投资组合。"
+      },
+      "services": {
+        "title": "我们的服务",
+        "luxuryRealEstate": "豪华房地产服务",
+        "legalConsultation": "法律房产咨询",
+        "investmentManagement": "投资资产管理",
+        "propertiesRent": "迪拜租赁房产",
+        "companyFormation": "西班牙公司成立",
+        "conciergeServices": "奢华礼宾服务"
+      },
+      "ceo": {
+        "meetTitle": "认识我们富有远见的CEO！",
+        "name": "费迪南德·乔丹先生",
+        "description1": "认识我们在里诺房产富有远见的首席执行官，他在战略投资方面拥有深厚的背景，并热衷于在房地产世界中提供高价值、奢华的机会。",
+        "description2": "作为里诺房产背后的推动力——里诺投资集团的创始人——乔丹先生为公司在海湾合作委员会和欧洲的卓越增长和声誉做出了贡献。"
+      },
+      "team": {
+        "title": "我们的",
+        "titleHighlight": "团队"
+      }
+    }
+  },
+  "valuation": {
+    "title": "免费房产估值",
+    "subtitle": "获得专家估值",
+    "heading": "从我们的专家咨询团队获得免费房产估值",
+    "description": "通过我们经验丰富的房产咨询团队成员的免费估值请求，了解您的房产可能价值多少。",
+    "ctaButton": "免费房产估值"
+  },
+  "properties": {
+    "title": "豪华房产",
+    "subtitle": "探索我们在西班牙和迪拜最具声望地段的完整优质房产集合",
+    "exploreProperties": "探索房产",
+    "viewDetails": "查看详情",
+    "viewOnMap": "在谷歌地图查看",
+    "inquireNow": "立即咨询",
+    "callNow": "立即致电",
+    "sendInquiry": "发送咨询",
+    "details": "详情",
+    "amenities": "设施",
+    "clearAllFilters": "清除所有筛选",
+    "noPropertiesFound": "未找到符合您条件的房产",
+    "loading": "正在加载房产...",
+    "page": {
+      "title": "豪华",
+      "titleHighlight": "房产",
+      "spainProperties": "西班牙房产",
+      "dubaiProperties": "迪拜房产",
+      "scroll": "滚动",
+      "propertiesFound": "找到房产",
+      "searchResultsFor": "搜索结果",
+      "properties": "房产",
+      "filterProperties": "筛选房产",
+      "clearSearch": "清除搜索",
+      "propertyType": "房产类型",
+      "country": "国家",
+      "city": "区域",
+      "status": "状态",
+      "listingType": "房源类型",
+      "sortBy": "排序方式",
+      "all": "全部",
+      "allCities": "所有区域",
+      "allTypes": "所有类型",
+      "featuredFirst": "精选优先",
+      "priceLowToHigh": "价格：从低到高",
+      "priceHighToLow": "价格：从高到低",
+      "newestFirst": "最新优先",
+      "errorLoading": "加载房产时出错",
+      "retry": "重试",
+      "noPropertiesFoundMessage": "未找到房产",
+      "adjustFilters": "请尝试调整筛选条件以查看更多房产。",
+      "statusOptions": {
+        "sold": "已售",
+        "approved": "可用",
+        "negotiable": "可议价"
+      },
+      "listingTypeOptions": {
+        "offPlan": "期房",
+        "readyToMove": "现房"
+      },
+      "stats": {
+        "properties": "房产",
+        "cities": "城市",
+        "featured": "精选",
+        "countries": "国家"
+      },
+      "cta": {
+        "title": "今天找到您的完美房产",
+        "description": "我们的国际专家团队随时准备帮助您在西班牙或迪拜找到完美的房产投资。",
+        "contactTeam": "联系我们的团队",
+        "scheduleCall": "安排通话"
+      }
+    },
+    "featured": {
+      "title": "查看我们最新的",
+      "titleHighlight": "房产优惠",
+      "subtitle": "探索我们在西班牙和迪拜的最新房产，为您精心挑选的优质选择。",
+      "filterAll": "全部",
+      "filterVilla": "别墅",
+      "filterApartment": "公寓",
+      "filterPenthouse": "顶层公寓",
+      "filterCommercial": "商业",
+      "noPropertiesFilter": "没有找到符合所选筛选条件的房产。",
+      "tryAgain": "重试",
+      "notWhatLookingFor": "不是您要找的？",
+      "searchForProperty": "搜索房产"
+    },
+    "stats": {
+      "properties": "房产",
+      "cities": "城市",
+      "featured": "精选",
+      "countries": "国家"
+    }
+  },
+  "dubai": {
+    "head": {
+      "title": "迪拜房产 - Rino Properties",
+      "description": "探索迪拜的豪华房产出售和租赁。迪拜码头、迪拜市中心、朱美拉棕榈岛等地的别墅、公寓、顶层公寓。",
+      "ogTitle": "迪拜房产 - Rino Properties",
+      "ogDescription": "迪拜最具声望地段的豪华房产"
+    },
+    "hero": {
+      "title": "豪华",
+      "titleHighlight": "房产",
+      "scroll": "滚动",
+      "stats": {
+        "properties": "房产",
+        "cities": "城市",
+        "featured": "精选"
+      },
+      "status": {
+        "usingDemo": "使用演示数据",
+        "loading": "加载房产中...",
+        "error": "API错误"
+      }
+    },
+    "searchResults": {
+      "title": "搜索结果：",
+      "inDubai": "在迪拜",
+      "clearSearch": "清除搜索"
+    },
+    "results": {
+      "loading": "加载中...",
+      "propertiesFound": "找到房产",
+      "searchResultsFor": "搜索结果",
+      "inDubai": "在迪拜",
+      "filteredBy": "筛选条件",
+      "in": "在",
+      "demoData": "演示数据"
+    },
+    "loading": {
+      "message": "正在加载迪拜房产..."
+    },
+    "error": {
+      "connectionError": "连接错误",
+      "tryAgain": "重试"
+    },
+    "noProperties": {
+      "title": "未找到房产",
+      "message": "我们找不到符合您当前搜索条件的房产。请尝试调整筛选条件。",
+      "clearFilters": "清除所有筛选"
+    },
+    "popularAreas": {
+      "title": "迪拜热门区域",
+      "subtitle": "探索迪拜最受欢迎的社区",
+      "properties": "房产",
+      "viewProperties": "查看房产",
+      "dubaiMarina": {
+        "description": "海滨生活，拥有令人惊叹的码头景观"
+      },
+      "downtownDubai": {
+        "description": "标志性天际线和世界级购物"
+      },
+      "palmJumeirah": {
+        "description": "独家岛屿生活，私人海滩"
+      }
+    },
+    "cta": {
+      "title": "准备投资迪拜的未来？",
+      "description": "我们的迪拜专家团队随时准备引导您了解充满活力的房地产市场，帮助您获得完美的投资。",
+      "contactTeam": "联系迪拜团队",
+      "callPhone": "致电：+971 43 21 2433"
+    }
+  },
+  "spain": {
+    "head": {
+      "title": "西班牙房产 - Rino Properties",
+      "description": "探索西班牙的豪华房产出售和租赁。马德里、巴塞罗那、马贝拉等地的别墅、公寓和商业地产。",
+      "ogTitle": "西班牙房产 - Rino Properties",
+      "ogDescription": "西班牙最受欢迎地段的豪华房产"
+    },
+    "hero": {
+      "title": "豪华",
+      "titleHighlight": "房产",
+      "scroll": "滚动",
+      "stats": {
+        "properties": "房产",
+        "cities": "城市",
+        "featured": "精选"
+      },
+      "status": {
+        "loading": "加载房产中...",
+        "error": "API连接错误"
+      }
+    },
+    "searchResults": {
+      "title": "搜索结果：",
+      "inSpain": "在西班牙",
+      "clearSearch": "清除搜索"
+    },
+    "results": {
+      "loading": "加载中...",
+      "propertiesFound": "找到房产",
+      "searchResultsFor": "搜索结果",
+      "inSpain": "在西班牙",
+      "filteredBy": "筛选条件",
+      "in": "在",
+      "errorMessage": "无法从API加载房产"
+    },
+    "loading": {
+      "message": "正在加载西班牙房产..."
+    },
+    "error": {
+      "connectionFailed": "API连接失败",
+      "unableToFetch": "无法从服务器获取房产。",
+      "retryConnection": "重新连接",
+      "contactSupport": "联系支持"
+    },
+    "noProperties": {
+      "title": "未找到房产",
+      "message": "我们找不到符合您当前搜索条件的房产。请尝试调整筛选条件。",
+      "clearFilters": "清除所有筛选"
+    },
+    "cta": {
+      "title": "准备找到您的西班牙梦想房产？",
+      "description": "我们的专家团队在这里帮助您了解西班牙房地产市场，找到完美的投资或住房。",
+      "contactExperts": "联系我们的专家",
+      "callPhone": "致电：+34 635 955 137"
+    }
+  },
+  "propertyFilters": {
+    "title": "筛选房产",
+    "propertyType": "房产类型",
+    "country": "国家",
+    "city": "区域",
+    "all": "全部",
+    "featured": "精选",
+    "allTypes": "所有类型",
+    "allCities": "所有区域",
+    "clearAllFilters": "清除所有筛选",
+    "countries": {
+      "spain": "西班牙",
+      "uae": "阿联酋"
+    },
+    "status": {
+      "label": "状态",
+      "sold": "已售",
+      "approved": "已批准",
+      "negotiable": "可议价"
+    },
+    "listingType": {
+      "label": "房源类型",
+      "offPlan": "期房",
+      "readyToMove": "现房"
+    },
+    "sort": {
+      "label": "排序方式",
+      "featuredFirst": "精选优先",
+      "priceLowToHigh": "价格：从低到高",
+      "priceHighToLow": "价格：从高到低",
+      "newestFirst": "最新优先"
+    }
+  },
+  "contact": {
+    "title": "让我们找到您的理想房产",
+    "subtitle": "与我们的专家团队联系，获得西班牙和迪拜高端房产的个性化服务",
+    "readyToConnect": "准备联系我们？",
+    "messageSent": "消息已发送！",
+    "thankYou": "感谢您的联系。我们将在24小时内回复。",
+    "exploreProperties": "探索我们的房产",
+    "responseTime": "响应时间",
+    "satisfaction": "满意度",
+    "getInTouch": "联系我们",
+    "description": "无论您是想在西班牙或迪拜购买、出售或投资房产，我们经验丰富的团队都会在您的房地产旅程中为您提供指导。",
+    "scroll": "滚动",
+    "visitOffices": "参观我们的办公室",
+    "visitOfficesSubtitle": "在西班牙和迪拜的便利位置找到我们",
+    "spain": "西班牙",
+    "dubai": "迪拜",
+    "spainOfficeTitle": "西班牙办公室",
+    "spainOfficeSubtitle": "马拉加总部",
+    "dubaiOfficeTitle": "迪拜办公室",
+    "dubaiOfficeSubtitle": "阿联酋总部",
+    "mondayFridaySpain": "周一 - 周五：上午9:00 - 下午6:00 CET",
+    "sundayThursdayDubai": "周日 - 周四：上午9:00 - 下午6:00 GST",
+    "sendMessageTitle": "发送消息",
+    "sendMessageSubtitle": "填写下面的表格，我们将在24小时内回复您",
+    "form": {
+      "fullName": "全名",
+      "name": "姓名",
+      "email": "电子邮件地址",
+      "phone": "电话号码",
+      "subject": "主题",
+      "message": "消息",
+      "sendMessage": "发送消息",
+      "sending": "正在发送您的消息...",
+      "required": "*",
+      "placeholders": {
+        "name": "您的姓名",
+        "email": "your.email@example.com",
+        "phone": "+86 (138) 1234-5678",
+        "subject": "我们如何为您提供帮助？",
+        "message": "告诉我们更多关于您的房产需求..."
+      },
+      "validation": {
+        "nameRequired": "姓名是必需的",
+        "emailRequired": "电子邮件是必需的",
+        "emailInvalid": "请输入有效的电子邮件地址",
+        "phoneRequired": "电话号码是必需的",
+        "subjectRequired": "主题是必需的",
+        "messageRequired": "消息是必需的",
+        "messageMinLength": "消息必须至少10个字符",
+        "submitError": "发送消息失败。请重试或直接联系我们。"
+      }
+    },
+    "info": {
+      "email": "电子邮件",
+      "phone": "电话",
+      "officeLocations": "办公室位置",
+      "businessHours": "营业时间",
+      "mondayFriday": "周一 - 周五：上午9:00 - 下午6:00",
+      "spainOffice": "C/ Ancha del Carmen, 2 - 29002 Málaga.",
+      "dubaiOffice": "Business Village Building – B, Office 330, Deira, Dubai."
+    }
+  },
+  "cta": {
+    "contactUs": "联系我们",
+    "getStarted": "开始",
+    "findAgent": "经纪人",
+    "viewAll": "查看全部",
+    "readMore": "阅读更多",
+    "learnMore": "了解更多",
+    "scheduleCall": "安排通话",
+    "contactTeam": "联系我们的团队",
+    "heading": "准备好找到您的理想房产了吗？",
+    "description": "里诺房产为国际买家提供精选的独家房地产，位于西班牙顶级地段，如马德里和太阳海岸。",
+    "contactExperts": "联系我们的专家"
+  },
+  "locations": {
+    "title": "里诺房产顶级",
+    "titleHighlight": "精选地段",
+    "subtitle": "找到您理想的房产。浏览我们在西班牙和阿联酋的优质房产列表。",
+    "filterAll": "全部",
+    "filterSpain": "西班牙",
+    "filterUAE": "阿联酋",
+    "imageUnavailable": "图片不可用",
+    "viewProperties": "查看房产在"
+  },
+  "search": {
+    "placeholder": "输入房产标题、ID或位置",
+    "searchButton": "搜索",
+    "searching": "搜索中...",
+    "searchingProperties": "搜索房产中...",
+    "propertyResults": "房产结果",
+    "noPropertiesFound": "未找到房产",
+    "tryDifferentSearch": "尝试不同的搜索词或浏览所有房产",
+    "seeAllResults": "查看所有结果",
+    "beds": "卧室",
+    "baths": "浴室",
+    "searchPopup": {
+      "title": "搜索房产",
+      "placeholder": "按位置、房产名称或ID搜索...",
+      "searchResults": "搜索结果",
+      "browseByLocation": "按位置浏览",
+      "spainProperties": "西班牙房产",
+      "uaeProperties": "阿联酋房产",
+      "allProperties": "所有房产"
+    }
+  },
+  "propertyCard": {
+    "viewDetails": "查看详情",
+    "startingFrom": "起价",
+    "priceOnRequest": "面议",
+    "beds": "卧室",
+    "baths": "浴室",
+    "area": "面积",
+    "bedrooms": "卧室",
+    "bathrooms": "浴室",
+    "previousImage": "上一张图片",
+    "nextImage": "下一张图片",
+    "viewImage": "查看图片",
+    "viewDetailsFor": "查看详情",
+    "viewAllPropertiesIn": "查看所有房产在",
+    "status": {
+      "sold": "已售",
+      "available": "可售",
+      "negotiable": "可议价",
+      "approved": "可售"
+    },
+    "listingType": {
+      "offPlan": "期房",
+      "readyToMove": "现房"
+    },
+    "propertyTypes": {
+      "villa": "别墅",
+      "apartment": "公寓",
+      "penthouse": "顶层公寓",
+      "townhouse": "联排别墅",
+      "studio": "单间公寓",
+      "commercial": "商业",
+      "land": "土地"
+    },
+    "featured": "精选"
+  },
+  "common": {
+    "loading": "加载中...",
+    "error": "出了点问题",
+    "retry": "重试",
+    "close": "关闭",
+    "next": "下一个",
+    "previous": "上一个",
+    "submit": "提交",
+    "cancel": "取消",
+    "save": "保存",
+    "delete": "删除",
+    "edit": "编辑",
+    "search": "搜索",
+    "filter": "筛选",
+    "sort": "排序",
+    "showMore": "显示更多",
+    "showLess": "显示更少",
+    "scroll": "滚动",
+    "whatsapp": "WhatsApp",
+    "email": "电子邮件",
+    "phone": "电话",
+    "address": "地址",
+    "searchProperties": "搜索房产",
+    "findAgent": "经纪人"
+  },
+  "footer": {
+    "description": "您值得信赖的西班牙和阿联酋豪华房地产投资伙伴。构建梦想，创造价值，提供卓越体验。",
+    "quickLinks": "快速链接",
+    "followUs": "关注我们",
+    "allRightsReserved": "版权所有",
+    "rinoProperties": "里诺房产",
+    "ourServices": "我们的服务",
+    "getInTouch": "联系我们",
+    "spainOfficeLabel": "西班牙办公室",
+    "dubaiOfficeLabel": "迪拜办公室",
+    "phoneLabel": "电话",
+    "emailLabel": "电子邮件",
+    "spainOfficeAddress": "Rino invest Asset S.L. C/ Ancha del Carmen, 2 - 29002 马拉加。",
+    "dubaiOfficeAddress": "商业村大厦 - B，办公室330，迪拉，迪拜。",
+    "phoneNumbers": "+34 635 955 137 | +971 43 21 2433",
+    "emailAddress": "ask@rinoproperties.com",
+    "services": {
+      "propertyInvestment": "房产投资",
+      "luxuryRentals": "豪华租赁",
+      "goldenVisaAssistance": "黄金签证协助",
+      "propertyManagement": "房产管理",
+      "legalAdvisory": "法律咨询",
+      "marketAnalysis": "市场分析"
+    },
+    "links": {
+      "home": "首页",
+      "properties": "房产",
+      "about": "关于我们",
+      "services": "服务",
+      "blog": "博客",
+      "contact": "联系我们",
+      "privacyPolicy": "隐私政策",
+      "termsOfService": "服务条款",
+      "cookiePolicy": "Cookie政策"
+    }
+  },
+  "propertyDetails": {
+    "notFound": {
+      "title": "房产未找到",
+      "message": "您要找的房产不存在。",
+      "browseAll": "浏览所有房产"
+    },
+    "stats": {
+      "bedrooms": "卧室",
+      "bathrooms": "浴室",
+      "area": "面积"
+    },
+    "description": {
+      "title": "描述"
+    },
+    "amenities": {
+      "title": "设施",
+      "noListed": "未列出设施"
+    },
+    "features": {
+      "title": "特色",
+      "noListed": "未列出特色"
+    },
+    "location": {
+      "title": "位置",
+      "viewOnGoogleMaps": "在谷歌地图查看"
+    },
+    "inquiry": {
+      "title": "立即咨询",
+      "successMessage": "谢谢！您的咨询已成功发送。",
+      "errorMessage": "抱歉，发送您的咨询时出现错误。请重试。",
+      "form": {
+        "fullName": "全名",
+        "email": "电子邮件地址",
+        "phone": "电话号码",
+        "message": "留言（告诉我们您对此房产的兴趣）",
+        "sending": "发送中...",
+        "sendInquiry": "发送咨询"
+      }
+    },
+    "details": {
+      "title": "详情",
+      "propertyId": "房产ID",
+      "type": "类型",
+      "status": "状态",
+      "listingType": "房源类型",
+      "yearBuilt": "建成年份",
+      "country": "国家",
+      "notAvailable": "不可用",
+      "notSpecified": "未指定",
+      "sold": "已售",
+      "negotiable": "可议价",
+      "available": "可用",
+      "offPlan": "期房",
+      "readyToMove": "现房"
+    },
+    "cta": {
+      "title": "准备安排看房？",
+      "description": "立即联系我们的专家团队，安排这处非凡房产的私人看房。",
+      "callNow": "立即致电"
+    },
+    "downloadBrochure": "下载宣传册",
+    "brochureNotAvailable": "此房产的宣传册目前不可用。请联系我们获取更多信息。",
+    "brochureError": "下载宣传册时出错。请稍后再试。"
+  },
+  "errors": {
+    "required": "此字段为必填项",
+    "invalidEmail": "请输入有效的电子邮件地址",
+    "invalidPhone": "请输入有效的电话号码",
+    "generic": "发生错误。请重试。",
+    "networkError": "网络错误。请检查您的连接。"
+  },
+  "success": {
+    "messageSent": "您的消息已成功发送！",
+    "subscribed": "成功订阅时事通讯！"
+  },
+  "agents": {
+    "title": "顶级房地产经纪人在",
+    "titleHighlight": "迪拜",
+    "description": "如果您正在寻找迪拜或西班牙的顶级房地产经纪人，您来对地方了。在Rino Properties，我们汇聚了一支经验丰富且值得信赖的经纪人团队，致力于帮助您自信地购买、出售或投资。无论您是在探索迪拜的豪华房产还是在西班牙寻找梦想家园，我们的专家提供量身定制的指导、市场洞察和以客户为中心的方法，确保从头到尾的无缝交易。",
+    "search": {
+      "title": "按经纪人姓名搜索",
+      "placeholder": "输入经纪人姓名...",
+      "language": "语言",
+      "allLanguages": "所有语言",
+      "nationality": "国籍",
+      "allNationalities": "所有国籍"
+    },
+    "results": {
+      "showing": "显示",
+      "agents": "位经纪人",
+      "agent": "位经纪人",
+      "matchingCriteria": "符合您的条件"
+    },
+    "card": {
+      "speaks": "会说：",
+      "yearsExperience": "年",
+      "ofExperience": "经验",
+      "nationality": "国籍：",
+      "viewProfile": "查看档案",
+      "whatsapp": "WhatsApp"
+    },
+    "noResults": {
+      "title": "未找到经纪人",
+      "message": "尝试调整您的搜索条件以找到更多经纪人。",
+      "clearFilters": "清除所有筛选器"
+    },
+    "cta": {
+      "title": "准备找到您的梦想房产了吗？",
+      "description": "今天就联系我们的专家经纪人，发现迪拜或西班牙的完美房产。",
+      "getStarted": "今天开始"
+    },
+    "back": "返回"
+  },
+  "sell": {
+    "head": {
+      "title": "快速出售迪拜房产 - 免费评估 ",
+      "description": "与Rino Properties快速出售您的迪拜房产。免费评估、专业营销和24/7支持。专注于迪拜码头、市中心等地区。",
+      "ogTitle": "快速出售迪拜房产 - 免费评估和专业服务 ",
+      "ogDescription": "专业的迪拜房产销售服务。免费评估、专业营销、24/7支持。专注于高端地段：市中心、码头、朱美拉湖塔、商业湾、朱美拉棕榈岛。今天联系我们！",
+      "twitterTitle": "快速出售迪拜房产 - 免费评估 ",
+      "twitterDescription": "专业的迪拜房产销售服务。免费评估、专业营销、24/7支持。专注于市中心、码头、朱美拉湖塔、商业湾、朱美拉棕榈岛。",
+      "dcTitle": "快速出售迪拜房产 - Rino Properties"
+    },
+    "hero": {
+      "title": "出售您的",
+      "titleHighlight": "房产快速",
+      "subtitle": "无压力销售，保证结果。我们处理从评估到完成的一切。",
+      "features": {
+        "freeValuation": "免费专业评估",
+        "noHiddenFees": "无隐藏费用",
+        "fastSale": "快速销售保证"
+      },
+      "buttons": {
+        "getFreeValuation": "获取免费评估",
+        "callNow": "立即致电"
+      }
+    },
+    "form": {
+      "title": "免费房产评估",
+      "subtitle": "获得认证专家对您房产的评估 - 无费用、无义务",
+      "successMessage": "谢谢！我们将很快与您联系。",
+      "fields": {
+        "fullName": "全名",
+        "email": "电子邮件地址",
+        "phone": "电话号码",
+        "propertyType": "选择房产类型",
+        "location": "房产位置（例如迪拜市中心、码头）"
+      },
+      "propertyTypes": {
+        "select": "选择房产类型",
+        "studio": "工作室",
+        "oneBedroom": "1卧室",
+        "twoBedroom": "2卧室",
+        "threeBedroom": "3卧室",
+        "fourPlusBedroom": "4+卧室",
+        "villa": "别墅",
+        "townhouse": "联排别墅",
+        "penthouse": "顶层公寓",
+        "commercial": "商业",
+        "other": "其他"
+      },
+      "submit": "获取免费评估",
+      "submitting": "提交中...",
+      "disclaimer": "*免费评估需对房产进行检查。所有信息均保密处理。"
+    },
+    "overview": {
+      "title": "准备出售您的",
+      "titleHighlight": " 房产",
+      "description": "准备好与Rino Properties一起在迪拜出售您的房产了吗？我们有一个简单、经过验证的流程，使出售您的房产比以往任何时候都更容易、更有利可图。",
+      "floatingCard": {
+        "title": "免费评估",
+        "subtitle": "无义务"
+      },
+      "process": {
+        "step1Title": "提交房产详情",
+        "step1Description": "用您的房产信息填写我们的简单表格",
+        "step2Title": "专业评估",
+        "step2Description": "我们的专家提供准确的市场价值评估",
+        "step3Title": "战略营销",
+        "step3Description": "多平台营销覆盖数千名买家",
+        "step4Title": "成功成交",
+        "step4Description": "我们的专业知识确保从头到尾的成功销售"
+      },
+      "ctaButton": "开始您的免费评估"
+    },
+    "whyChooseUs": {
+      "title": "您的成功是我们的",
+      "titleHighlight": " 首要任务",
+      "subtitle": "凭借多年的经验和卓越的业绩记录，我们是迪拜房产销售的可信选择"
+    }
+  },
+  "gfs": {
+    "head": {
+      "title": "从每月999迪拉姆起拥有迪拜住房 | 0.5%付款计划 ",
+      "description": "从每月仅999迪拉姆起拥有迪拜市中心的房屋。灵活的0.5%付款计划，仅需5%首付。GFS开发商。今天用25,000迪拉姆预订！",
+      "keywords": "迪拜房产付款计划，0.5%付款计划迪拜，每月999迪拉姆，迪拜房屋，GFS开发商，迪拜房地产灵活付款，5%首付迪拜"
+    },
+    "hero": {
+      "slides": {
+        "slide1": {
+          "badge": "灵活0.5%付款计划",
+          "title": "拥有迪拜市中心的房屋",
+          "subtitle": "从每月仅999迪拉姆起",
+          "description": "灵活的0.5%付款计划 • 仅需5%首付 • 优越连接迪拜码头、市中心和阿勒马克图姆机场",
+          "infoCards": {
+            "location": "迪拜市中心",
+            "propertyTypes": "单间、1和2房",
+            "monthlyPayment": "从每月999迪拉姆起"
+          }
+        },
+        "slide2": {
+          "badge": "GFS开发商",
+          "title": "可信开发商",
+          "subtitle": "优质品质",
+          "description": "由GFS开发商开发，拥有经验证的成功记录。优质建设、可持续发展和以社区为中心的生活。",
+          "infoCards": {
+            "location": "优质地段",
+            "quality": "优质建设",
+            "track": "经验证的成功记录"
+          }
+        },
+        "slide3": {
+          "badge": "战略投资",
+          "title": "现代社区",
+          "subtitle": "居住优越",
+          "description": "周到规划的绿地、无边泳池、商务中心和社交空间。完美适合现代城市生活。",
+          "infoCards": {
+            "area": "高增长地区",
+            "amenities": "优质设施",
+            "investment": "投资潜力"
+          }
+        }
+      },
+      "buttons": {
+        "virtualTour": "虚拟参观",
+        "bookNow": "立即预订"
+      },
+      "discoverMore": "了解更多"
+    },
+    "contact": {
+      "title": "准备拥有您的迪拜房屋了吗？",
+      "description": "联系我们的专家团队，了解更多关于我们灵活的0.5%付款计划，用25,000迪拉姆保证您的房产。",
+      "buttons": {
+        "virtualTour": "预订虚拟参观",
+                "bookNow": "立即预订"
+
+      },
+      "contactDetails": {
+        "email": {
+          "title": "发邮件给我们",
+          "value": "khaled@rinoproperties.com"
+        },
+        "phone": {
+          "title": "打电话给我们",
+          "value": "+971 54 401 2269"
+        },
+        "location": {
+          "title": "拜访我们",
+          "value": "迪拜，阿联酋"
+        }
+      }
+    },
+    "projects": {
+      "title": "项目",
+      "coventryGardens2": {
+        "title": "考文垂花园2",
+        "price": "从622,000迪拉姆起 *",
+        "location": "迪拜乐园住宅综合体",
+        "propertyTypes": "单间、1和2房公寓"
+      },
+      "coventryGardens": {
+        "title": "考文垂花园",
+        "price": "从576,000迪拉姆起 *",
+        "location": "迪拜乐园住宅综合体",
+        "propertyTypes": "单间、1和2房公寓"
+      },
+      "coventry66": {
+        "title": "考文垂66",
+        "price": "从525,000迪拉姆起 *",
+        "location": "迪拜乐园住宅综合体",
+        "propertyTypes": "单间、1和2房公寓"
+      },
+      "cta": {
+        "title": "对我们的项目感兴趣吗？",
+        "description": "了解更多关于我们优质开发项目和灵活付款计划的信息",
+        "getInfo": "获取更多信息",
+        "virtualTours": "虚拟参观"
+      }
+    },
+    "benefits": {
+      "title": "为什么选择这个优惠",
+      "description": "体验迪拜优质生活，享受前所未有的便利性和灵活性",
+      "flexiblePayment": {
+        "title": "灵活付款计划",
+        "bookingAmount": "支付25,000迪拉姆立即预订",
+        "monthlyInstallment": "从每月仅999迪拉姆起的分期付款",
+        "downPayment": "仅需5%首付"
+      },
+      "strategicLocation": {
+        "title": "战略位置",
+        "heartOfDubai": "位于迪拜市中心",
+        "metroStation": "靠近地铁站",
+        "dubaiMarina": "15分钟到迪拜码头",
+        "mallOfEmirates": "20分钟到阿联酋购物中心"
+      },
+      "trustedDeveloper": {
+        "title": "可信开发商",
+        "developer": "GFS开发商",
+        "track": "经验证的成功记录",
+        "projects": "如考文垂花园等优质项目",
+        "development": "优质和可持续发展"
+      },
+      "modernLiving": {
+        "title": "现代社区生活",
+        "propertyTypes": "单间、1和2房公寓",
+        "amenities": "无边泳池和商务中心",
+        "greenSpaces": "绿地和景观花园",
+        "virtualTours": "可提供虚拟公寓参观"
+      }
+    },
+    "investment": {
+      "headerTitle": "投资潜力和便利性",
+      "learnMore": "了解更多",
+      "whyThisOffer": "为什么这个优惠有意义",
+      "accessibility": {
+        "title": "✓ 便利性",
+        "description": "0.5%付款计划和每月999迪拉姆使房地产对广泛的买家更加便利。您不再需要大量的前期资本就能拥有迪拜优质地段的房产。"
+      },
+      "lowEntry": {
+        "title": "✓ 低进入成本",
+        "description": "仅需5%首付，您不需要巨额初始资本即可开始。这种革命性的付款结构为以前遥不可及的房产所有权开启了大门。"
+      },
+      "primeLocation": {
+        "title": "✓ 优质位置优势",
+        "description": "与迪拜主要地标和交通枢纽的战略连接增强了居住体验和投资价值。位于具有强劲长期潜力的高增长地区。"
+      },
+      "highlights": {
+        "title": "投资亮点",
+        "offPlan": {
+          "title": "期房机会",
+          "description": "通过灵活付款计划提早进入"
+        },
+        "highGrowth": {
+          "title": "高增长位置",
+          "description": "迪拜乐园住宅综合体，迪拜南部"
+        },
+        "longTerm": {
+          "title": "长期升值",
+          "description": "强劲的租金收益和资本增长潜力"
+        }
+      },
+      "connectivity": {
+        "title": "战略连接性",
+        "airport": {
+          "location": "靠近阿勒马克图姆机场",
+          "benefit": "对旅行者很棒"
+        },
+        "marina": {
+          "location": "15分钟到迪拜码头",
+          "benefit": "海滨生活方式"
+        },
+        "downtown": {
+          "location": "30分钟到迪拜市中心",
+          "benefit": "哈利法塔地区"
+        }
+      }
+    },
+    "faq": {
+      "title": "常见问题",
+      "description": "获取关于我们灵活付款计划最常见问题的答案",
+      "q1": {
+        "question": "0.5%付款计划究竟是什么？",
+        "answer": "这意味着您每月只需支付公寓总价的0.5%，使分期付款非常易于管理。例如，一套价值500,000迪拉姆的房产，您的月付款仅为2,500迪拉姆。"
+      },
+      "q2": {
+        "question": "我真的只需要5%的首付吗？",
+        "answer": "是的——通过我们的计划，您只需预付5%来预订您的房产，然后继续低月付款。这种革命性的方法使更多人能够拥有迪拜房产。"
+      },
+      "q3": {
+        "question": "每月999迪拉姆有保证吗？",
+        "answer": "是的，每月999迪拉姆是我们最实惠单元的起点。确切的月付款取决于房产大小和总价，但我们确保通过我们的0.5%月付计划所有付款都保持可管理。"
+      },
+      "q4": {
+        "question": "位置如何连接得如此好？",
+        "answer": "我们的开发项目战略性地位于迪拜市中心，靠近地铁站，15分钟到迪拜码头，20分钟到阿联酋购物中心，30分钟到迪拜市中心。另外，靠近阿勒马克图姆机场，连接性极佳。"
+      },
+      "q5": {
+        "question": "何时交房？",
+        "answer": "预计交房日期是2027年第二季度。我们提供定期建设更新，并在整个开发过程中保持透明度，让您了解进度。"
+      },
+      "q6": {
+        "question": "GFS是值得信赖的开发商吗？",
+        "answer": "是的——GFS开发商拥有数十年经验、ISO认证，以及优质和以社区为中心设计的声誉。他们成功交付了如考文垂花园等优质住宅项目，展现了他们对卓越的承诺。"
+      }
+    },
+    "virtualTour": {
+      "title": "虚拟房产参观"
+    },
+    "registrationPopup": {
+      "title": "预订您的房屋",
+      "project": "GFS开发 - 迪拜房产",
+      "source": "GFS开发页面",
+      "leadType": "房产预订",
+      "form": {
+        "fullName": "全名 *",
+        "email": "电子邮箱地址 *",
+        "phone": "电话号码 *",
+        "nationality": "国籍（可选）",
+        "nationalityOptions": {
+          "uae": "阿联酋",
+          "india": "印度",
+          "uk": "英国",
+          "spain": "西班牙",
+          "germany": "德国",
+          "usa": "美国",
+          "other": "其他"
+        },
+        "consent": "我同意被Rino Properties联系。",
+        "submit": "立即预订 - 25,000迪拉姆"
+      }
+    },
+    "floatingButtons": {
+      "call": "致电我们",
+      "whatsapp": "在WhatsApp上联系我们"
+    }
+  },
+  "dubaiMaritime": {
+    "head": {
+      "title": "迪拜海事城房产 - 豪华滨水生活 ",
+      "description": "探索迪拜海事城的优质滨水房产。豪华塔楼、游艇码头景观和世界级设施。Rino Properties专业指导。",
+      "keywords": "迪拜海事城, 迪拜滨水房产, 迪拜豪华塔楼, 游艇码头房产, 迪拜房地产, Breez by Danube, 海事城塔楼"
+    },
+    "hero": {
+      "slides": {
+        "slide1": {
+          "badge": "海事城最高滨水塔楼",
+          "title": "Breez",
+          "subtitle": "by Danube",
+          "description": "迪拜最高的滨水住宅塔楼。60层全装修豪华公寓，配备40多项度假村风格设施。",
+          "infoCards": {
+            "location": "迪拜海事城",
+            "building": "60层塔楼",
+            "completion": "交付：2029年3月"
+          }
+        },
+        "slide2": {
+          "badge": "优质滨水生活",
+          "title": "码头",
+          "subtitle": "豪华住宅",
+          "description": "体验无与伦比的豪华生活，享受游艇码头全景。优质设施和世界级设备等待着您。",
+          "infoCards": {
+            "location": "优质滨水",
+            "building": "豪华公寓",
+            "status": "即将入住"
+          }
+        },
+        "slide3": {
+          "badge": "独家开发",
+          "title": "海岸",
+          "subtitle": "精英系列",
+          "description": "探索沿海豪华生活的典范。独家滨水房产，享有私人海滩通道和优质设施。",
+          "infoCards": {
+            "location": "海滩通道",
+            "building": "精英别墅",
+            "status": "限量版"
+          }
+        }
+      },
+      "buttons": {
+        "enquiryNow": "立即咨询",
+        "contactWhatsapp": "WhatsApp联系"
+      },
+      "discoverMore": "了解更多"
+    },
+    "advantages": {
+      "title": "在海事城居住和",
+      "titleHighlight": "投资的5大优势",
+      "modernSeaside": {
+        "title": "现代海滨社区",
+        "description": "迪拜码头等过时区域无法比拟——海事城的每个项目都提供现代设施，真正提升生活方式。"
+      },
+      "wellPlanned": {
+        "title": "规划完善的总体项目",
+        "description": "总体规划包括游艇俱乐部、码头、水上运动设施、海滨长廊、绿色景观以及无缝整合的休闲娱乐区域。"
+      },
+      "integratedEcosystem": {
+        "title": "综合海事生态系统和商业中心",
+        "description": "被评为阿联酋最佳私人海滩之一——过渡性且原始。"
+      },
+      "fastGrowth": {
+        "title": "快速增长和高租金回报",
+        "description": "海滨地区每年增长15-18%，提升房产价值和租金。海事城的早期投资者可获得9-10%投资回报率，而二级市场仅为5-7%。"
+      },
+      "premiumCommunities": {
+        "title": "被Emaar高端社区环绕",
+        "description": "政府支持的开发商Emaar在附近建设，确保岛屿被高端项目环绕——为海事城增加价值、声望和长期吸引力。"
+      }
+    },
+    "centralConnected": {
+      "title": "中心位置，连通便利",
+      "description": "距离市中心仅10分钟，迪拜海事城是距离市中心最近的海滨位置之一。岛屿的总体规划包括现代高层建筑，享有美丽海景，在某些情况下还可欣赏迪拜市中心的景色。顶级开发商主要在岛屿东北部建设。虽然该地区曾专注于海洋工业，但规划正在改变，以创建私人宁静的海滨社区。预计在2028-2029年完全开发，预期强劲的价格增长。",
+      "travelTimes": {
+        "dubaiAirport": "迪拜国际机场 (DXB)",
+        "burjKhalifa": "哈利法塔",
+        "dubaiMall": "迪拜购物中心",
+        "mallEmirates": "阿联酋购物中心",
+        "palmJumeirah": "棕榈岛",
+        "dubaiMarina": "迪拜码头",
+        "times": {
+          "airport": "13分钟",
+          "burj": "10分钟",
+          "mall": "10分钟",
+          "emirates": "20分钟",
+          "palm": "25分钟",
+          "marina": "20分钟"
+        }
+      }
+    },
+    "projects": {
+      "title": "迪拜海事城项目",
+      "ilVento": {
+        "title": "Il Vento豪华住宅",
+        "location": "迪拜海事城",
+        "badges": ["公寓", "顶层公寓"],
+        "status": "即将入住",
+        "progress": "40/60"
+      },
+      "breez": {
+        "title": "Breez by Danube",
+        "location": "迪拜海事城",
+        "badges": ["公寓", "单间公寓"],
+        "status": "2029年第2季度交付",
+        "progress": "70/30"
+      },
+      "above31": {
+        "title": "31 Above",
+        "location": "迪拜海事城",
+        "badges": ["办公室"],
+        "status": "2029年第1季度交付",
+        "progress": "50/50"
+      },
+      "enquireNow": "立即咨询"
+    },
+    "expertHelp": {
+      "title": "我们的专家将帮助您",
+      "contactUs": "联系我们"
+    },
+    "about": {
+      "title": "关于迪拜海事城区域",
+      "content1": "迪拜海事城（DMC）是一个专门致力于海事、商业和邮轮业的标志性区域。该区域位于迪拜河和迪拜历史港口之间，提供办公、商业和零售空间、滨水区以及专门用于国有海事设施的海事区。",
+      "content2": "该社区的主要开发商是DP World，正与来自欧洲和亚洲的建筑顾问合作重新开发该区域。迪拜海事城项目预计将在2030年底完成。它将满足来自海事、商业和邮轮业发展世界精英半专业阶层的要求。该项目将涵盖约227公顷，完全拥有和运营。",
+      "content3": "根据总体规划，DMC正在开发创建五个海事公司的集群，无阶段和多样化业主，包括海事和邮轮、酒店、码头、教育，该区域应在国际邮轮码头附近开发。DMC中预期的集成有充分资金。"
+    },
+    "economic": {
+      "title": "经济吸引力",
+      "businessProperties": "商业地产",
+      "residences": "住宅",
+      "content1": "该区域可以与相关政府机构、私营部门企业和利益相关者提供有效和有吸引力的合作伙伴关系，旨在创建一个安全和充满活力的海事部门，确保酋长国的经济可持续性和增长。办公室致力于超越其工作并提升有效政策，为海事安全提供全面基础，并根据当地和国际法律为公众实施最佳海事服务。通过这样做，它将提供一个全面的审查系统。",
+      "content2": "迪拜海事城的主要部分将是海事中心，将设有关键项目，如海事问题的公寓和室内规划，以及豪华酒店、餐厅、零售住宅公寓和办公室。",
+      "content3": "迪拜海事城第一阶段几乎所有区域，包括道路工程、地块注册、大大增加的网络和公共空间网络已经完成。该区域将吸引最大的迪拜海事设施。",
+      "content4": "该区域的中心称为海事中心，将有8个滨水区和3个内陆区。它包括设施工作设施，如酒店、餐厅、零售和办公服务。",
+      "keyFeatures": {
+        "title": "关键开发特色",
+        "feature1": "专门用于船舶配件和游艇维修设施的工业区",
+        "feature2": "海洋工程和交通教育学术区",
+        "feature3": "规划超过100栋办公楼和130多个仓库",
+        "feature4": "战略位置的邮轮塔和办公设施"
+      },
+      "development": {
+        "title": "开发时间表和完工",
+        "description": "一旦迪拜海事城完工，该区域将容纳约十五座塔楼。地标塔将位于该区域的最前端，配有5星级酒店，以及15座位于开发不同区域的塔楼，包括港口周围。",
+        "completion": {
+          "title": "项目完工",
+          "description": "预计2030年底完工"
+        },
+        "area": {
+          "title": "总面积",
+          "description": "227公顷综合开发"
+        }
+      },
+      "imageCaption": "工业区将专门用于船舶配件、设施以及游艇维修和建造，以及超过一百个将位于该区域的仓库。海洋区和港口开发将专门用于游艇中心的活动区域，包括餐厅、酒店和其他设施。还有机会在门户前端增加15座塔楼，那里将有邮轮码头和办公建设。"
+    },
+    "contact": {
+      "title": "准备投资了吗？",
+      "description": "联系我们的专家团队，了解更多关于Breez by Danube的信息，确保您的滨水豪华住宅。",
+      "emailUs": "发邮件给我们",
+      "whatsapp": "WhatsApp"
+    },
+    "modal": {
+      "title": "迪拜海事城",
+      "success": {
+        "title": "咨询已成功发送！",
+        "description": "我们的迪拜房产专家将在24小时内联系您。",
+        "email": "ask@rinoproperties.com",
+        "phone": "+971 43 21 2433"
+      },
+      "form": {
+        "fullName": "全名 *",
+        "email": "电子邮箱地址 *",
+        "phone": "电话号码 *",
+        "propertyInterest": "房产兴趣",
+        "message": "额外要求",
+        "placeholders": {
+          "name": "张三",
+          "email": "zhangsan@example.com",
+          "phone": "+971 43 21 2433",
+          "message": "告诉我们您的具体要求、偏好的户型、付款计划或您有的任何问题..."
+        },
+        "propertyOptions": {
+          "select": "选择房产类型",
+          "breez": "Breez by Danube",
+          "ilVento": "Il Vento豪华住宅",
+          "above31": "31 Above",
+          "studio": "单间公寓",
+          "oneBed": "一居室公寓",
+          "twoBed": "两居室公寓",
+          "threeBed": "三居室公寓",
+          "penthouse": "顶层公寓",
+          "commercial": "商业地产",
+          "investment": "投资机会"
+        },
+        "submit": "发送咨询",
+        "sending": "正在发送咨询...",
+        "error": "发送咨询时出错。请重试或直接联系我们。",
+        "consent": "通过提交此表格，您同意我们的房产顾问就迪拜海事城房产与您联系。"
+      }
+    },
+    "floatingButtons": {
+      "callUs": "致电我们",
+      "whatsappContact": "通过WhatsApp联系我们"
+    }
+  }
+}

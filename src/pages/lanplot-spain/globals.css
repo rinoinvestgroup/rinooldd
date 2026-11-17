@@ -1,0 +1,253 @@
+  /* ── Lanplot Spain page-specific styles ─────────── */
+/* Colors (gold, cream, dark, dark-green) are defined in tailwind.config.ts */
+
+:root {
+  --gold: #b89b6a;
+  --gold-light: #d4b896;
+  --gold-dark: #a0824e;
+  --cream: #f5f0eb;
+  --dark: #1a1a1a;
+  --dark-green: #1a3a2a;
+}
+
+/* ── Glass morphism (used by navbar) ─────────────── */
+.lanplot-glass {
+  background: rgba(255, 255, 255, 0.88);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+}
+
+/* ── Hero overlay ───────────────────────────────── */
+.hero-overlay {
+  background: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0.35) 0%,
+    rgba(10, 20, 15, 0.55) 40%,
+    rgba(10, 20, 15, 0.65) 60%,
+    rgba(0, 0, 0, 0.50) 100%
+  );
+}
+
+/* ── Decorative line ────────────────────────────── */
+.decorative-line {
+  height: 1px;
+  background: linear-gradient(
+    to right,
+    transparent 0%,
+    rgba(255, 255, 255, 0.5) 25%,
+    rgba(255, 255, 255, 0.5) 75%,
+    transparent 100%
+  );
+}
+
+/* ── Feature card ───────────────────────────────── */
+.feature-card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.feature-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 14px 44px rgba(0, 0, 0, 0.07);
+}
+
+/* ── Highlight bullet (gold dot) ────────────────── */
+.highlight-item {
+  position: relative;
+  padding-left: 1.5rem;
+}
+.highlight-item::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.55rem;
+  width: 8px;
+  height: 8px;
+  background: var(--gold);
+  border-radius: 50%;
+}
+
+/* ── Gradient text ──────────────────────────────── */
+.gradient-text {
+  background: linear-gradient(135deg, var(--gold) 0%, var(--gold-light) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* ── Animations ─────────────────────────────────── */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes pulse-slow {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.4; }
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.8s ease-out both;
+}
+
+.animate-pulse-slow {
+  animation: pulse-slow 2.5s ease-in-out infinite;
+}
+
+/* ── Scroll-driven reveal (modern browsers) ─────── */
+@supports (animation-timeline: view()) {
+  .reveal {
+    animation: fadeInUp 0.6s ease both;
+    animation-timeline: view();
+    animation-range: entry 0% entry 35%;
+  }
+}
+
+/* ── Custom scrollbar ───────────────────────────── */
+::-webkit-scrollbar {
+  width: 7px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--gold);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--gold-dark);
+}
+
+/* ── Focus styles ───────────────────────────────── */
+input:focus,
+select:focus,
+textarea:focus {
+  outline: none;
+  border-color: var(--gold) !important;
+  box-shadow: 0 0 0 3px rgba(184, 155, 106, 0.15);
+}
+
+/* ── Table row hover ────────────────────────────── */
+.grid[class*="border-b"]:hover,
+section .space-y-0 > div:hover {
+  background: rgba(0, 0, 0, 0.015);
+}
+
+/* ── FAQ accordion ──────────────────────────────── */
+button:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 2px;
+}
+
+/* ── Form inputs ────────────────────────────────── */
+input:focus,
+select:focus,
+textarea:focus {
+  border-color: var(--gold);
+  box-shadow: 0 0 0 3px rgba(184, 155, 106, 0.12);
+  outline: none;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+input,
+select,
+textarea {
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+/* ── Button interactions ────────────────────────── */
+button[type="submit"]:active:not(:disabled) {
+  transform: scale(0.97);
+}
+
+/* ── Economics table row hover ──────────────────── */
+.economics-row {
+  transition: background-color 0.15s ease;
+}
+.economics-row:hover {
+  background-color: rgba(26, 26, 26, 0.02);
+}
+
+/* ── Fade-in-up animation for form success ──────── */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(1rem);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.animate-fade-in-up {
+  animation: fadeInUp 0.6s ease-out forwards;
+}
+
+/* ── Gold shimmer on CTA hover ──────────────────── */
+@keyframes shimmer {
+  0% { background-position: -200% center; }
+  100% { background-position: 200% center; }
+}
+.cta-shimmer:hover {
+  background-image: linear-gradient(
+    110deg,
+    var(--gold-dark) 0%,
+    var(--gold-light) 45%,
+    var(--gold-light) 55%,
+    var(--gold-dark) 100%
+  );
+  background-size: 200% 100%;
+  animation: shimmer 1.5s ease-in-out;
+}
+
+/* ── Process step connector ─────────────────────── */
+@media (min-width: 1024px) {
+  .process-connector {
+    position: relative;
+  }
+  .process-connector::after {
+    content: "";
+    position: absolute;
+    top: 2rem;
+    right: -1rem;
+    width: calc(100% - 4rem);
+    height: 1px;
+    background: linear-gradient(to right, var(--gold), transparent);
+  }
+}
+
+/* ── Sticky CTA shadow ──────────────────────────── */
+.shadow-gold\/25 {
+  box-shadow: 0 10px 40px rgba(184, 155, 106, 0.25);
+}
+
+/* ── Screen reader only ─────────────────────────── */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+/* ── Reduced motion ─────────────────────────────── */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+  html {
+    scroll-behavior: auto;
+  }
+}

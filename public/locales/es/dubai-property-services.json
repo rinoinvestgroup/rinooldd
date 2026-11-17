@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "title": "Servicios Inmobiliarios en Dubái | Comprar, Vender y Alquilar",
+    "description": "Rino Invest Group Tu socio inmobiliario de confianza en Dubái durante más de 20 años. Orientación experta para comprar, vender y alquilar bienes raíces premium en Dubái.",
+    "keywords": "propiedad Dubái, comprar propiedad Dubái, vender propiedad Dubái, alquilar Dubái, bienes raíces Dubái, Rino Invest Group, inversión Dubái, Palm Jumeirah, Downtown Dubái, Dubai Marina"
+  },
+  "hero": {
+    "welcomeTo": "Bienvenido a",
+    "companyName": "Rino Invest Group",
+    "description": "Tu socio inmobiliario de confianza en Dubái. Guiamos a inversores, propietarios e inquilinos en cada paso de su recorrido inmobiliario ofreciendo",
+    "lucrativeInvestments": "inversiones lucrativas",
+    "dreamHomes": "hogares soñados",
+    "highReturnRentals": "carteras de alquiler de alto rendimiento",
+    "propertiesSold": "Propiedades Vendidas",
+    "happyClients": "Clientes Satisfechos",
+    "yearsInDubai": "Años en Dubái",
+    "exploreServices": "Explora Nuestros Servicios"
+  },
+  "form": {
+    "title": "Obtén una Consulta Gratuita",
+    "subtitle": "Cuéntanos sobre tus objetivos inmobiliarios y te responderemos en 24 horas.",
+    "fullName": "Nombre Completo",
+    "email": "Correo Electrónico",
+    "phone": "Número de Teléfono",
+    "interestedIn": "Estoy Interesado en",
+    "message": "Mensaje",
+    "messagePlaceholder": "Cuéntanos sobre tus objetivos inmobiliarios...",
+    "submit": "Obtener Consulta Gratuita",
+    "sending": "Enviando…",
+    "consent": "Al enviar, aceptas ser contactado por Rino Invest Group respecto a tu consulta.",
+    "successTitle": "¡Gracias!",
+    "successMessage": "Tu consulta ha sido recibida. Nuestro equipo te contactará en 24 horas.",
+    "errorDefault": "Algo salió mal. Por favor, inténtalo de nuevo más tarde.",
+    "searchCountry": "Buscar país...",
+    "noResults": "Sin resultados",
+    "options": {
+      "generalInquiry": "Consulta General",
+      "buyingProperty": "Comprar Propiedad",
+      "sellingProperty": "Vender Propiedad",
+      "leasingRenting": "Alquiler / Arrendamiento",
+      "investmentConsultation": "Consulta de Inversión"
+    }
+  },
+  "services": {
+    "sectionLabel": "Nuestros Servicios",
+    "sectionTitle": "Compra, Vende y Alquila con Confianza",
+    "buy": {
+      "title": "Compra la Propiedad de tus Sueños",
+      "description": "Descubre los barrios más deseados de Dubái, desde Downtown Dubái y Palm Jumeirah hasta Dubai Marina.",
+      "feature1": "Listados seleccionados para tu estilo de vida y objetivos",
+      "feature2": "Negociación experta para asegurar las mejores ofertas",
+      "feature3": "Orientación completa en procesos legales y de propiedad",
+      "highlight": "Invierte en valor, crecimiento y tranquilidad."
+    },
+    "sell": {
+      "title": "Vende con Confianza",
+      "description": "Deja que nuestros 20 años de experiencia en el mercado te ayuden a obtener el mejor precio posible.",
+      "feature1": "Valoraciones precisas basadas en tendencias actuales del mercado",
+      "feature2": "Marketing profesional, fotografía y gestión de listados",
+      "feature3": "Acceso a compradores e inversores cualificados",
+      "highlight": "Tu propiedad destaca y se vende rápido."
+    },
+    "lease": {
+      "title": "Alquila con Alto ROI",
+      "description": "Nos especializamos en gestión de alquileres y oportunidades de arrendamiento de alto rendimiento.",
+      "feature1": "Arrendamiento integral: precios, marketing, selección y contratos",
+      "feature2": "Información basada en datos para maximizar el rendimiento del alquiler",
+      "feature3": "Gestión continua para una experiencia sin complicaciones",
+      "highlight": "Tu propiedad trabaja más para que ganes más."
+    }
+  },
+  "whyChoose": {
+    "sectionLabel": "Por Qué Elegirnos",
+    "sectionTitle": "¿Por Qué Elegir Rino Invest Group?",
+    "experience": {
+      "title": "Más de 20 Años de Experiencia",
+      "description": "Experiencia inmobiliaria de confianza en el dinámico mercado de Dubái."
+    },
+    "experts": {
+      "title": "Expertos Dedicados",
+      "description": "Especialistas en propiedades con conocimientos del mercado local y global."
+    },
+    "trackRecord": {
+      "title": "Historial Comprobado",
+      "description": "Cientos de ventas exitosas, inversiones y clientes satisfechos."
+    },
+    "transparency": {
+      "title": "Transparencia y Confianza",
+      "description": "La satisfacción del cliente en el centro de todo lo que hacemos."
+    }
+  },
+  "about": {
+    "sectionLabel": "Sobre Rino Invest Group",
+    "sectionTitle": "Más que Agentes Inmobiliarios — Somos tus Socios en el Crecimiento",
+    "description": "Durante más de dos décadas, Rino Invest Group ha guiado a inversores, propietarios e inquilinos en cada paso de su recorrido inmobiliario en Dubái. Nuestro profundo conocimiento del mercado local y compromiso con la excelencia han ayudado a cientos de clientes a encontrar propiedades que realmente cumplen.",
+    "point1": "Oportunidades de inversión lucrativas en todo Dubái",
+    "point2": "Hogares soñados en vecindarios premium",
+    "point3": "Carteras de alquiler de alto rendimiento con gestión experta",
+    "point4": "Soporte integral desde la consulta hasta la entrega",
+    "imageAlt": "Horizonte de Dubái con Burj Khalifa y edificios de lujo modernos"
+  },
+  "cta": {
+    "title": "Comienza tu Viaje Inmobiliario Hoy",
+    "description": "El mercado inmobiliario de Dubái está prosperando y las oportunidades esperan. Ya sea que quieras comprar, vender o alquilar, nuestro equipo experimentado está listo para ayudarte a tomar una decisión inteligente.",
+    "consultation": "Obtener Consulta Gratuita",
+    "callUs": "Llámanos Ahora",
+    "emailUs": "Envíanos un Email"
+  }
+}

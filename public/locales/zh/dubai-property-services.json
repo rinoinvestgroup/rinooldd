@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "title": "迪拜房产服务 | 买卖与租赁",
+    "description": "Rino Invest Group 您值得信赖的迪拜房产合作伙伴，拥有20多年经验。专业指导迪拜优质房地产的买卖和租赁。",
+    "keywords": "迪拜房产，迪拜买房，迪拜卖房，迪拜租赁，迪拜房地产，Rino Invest Group，迪拜投资，棕榈岛，迪拜市中心，迪拜码头"
+  },
+  "hero": {
+    "welcomeTo": "欢迎来到",
+    "companyName": "Rino Invest Group",
+    "description": "您值得信赖的迪拜房产合作伙伴。我们引导投资者、房主和租户完成房地产旅程的每一步，提供",
+    "lucrativeInvestments": "丰厚的投资回报",
+    "dreamHomes": "梦想家园",
+    "highReturnRentals": "高回报租赁组合",
+    "propertiesSold": "已售房产",
+    "happyClients": "满意客户",
+    "yearsInDubai": "在迪拜的年数",
+    "exploreServices": "探索我们的服务"
+  },
+  "form": {
+    "title": "获取免费咨询",
+    "subtitle": "告诉我们您的房产目标，我们将在24小时内回复您。",
+    "fullName": "全名",
+    "email": "电子邮件",
+    "phone": "电话号码",
+    "interestedIn": "我感兴趣的是",
+    "message": "留言",
+    "messagePlaceholder": "告诉我们您的房产目标...",
+    "submit": "获取免费咨询",
+    "sending": "发送中…",
+    "consent": "提交即表示您同意 Rino Invest Group 就您的咨询与您联系。",
+    "successTitle": "谢谢您！",
+    "successMessage": "您的咨询已收到。我们的团队将在24小时内与您联系。",
+    "errorDefault": "出了点问题。请稍后再试。",
+    "searchCountry": "搜索国家...",
+    "noResults": "无结果",
+    "options": {
+      "generalInquiry": "一般咨询",
+      "buyingProperty": "购买房产",
+      "sellingProperty": "出售房产",
+      "leasingRenting": "租赁",
+      "investmentConsultation": "投资咨询"
+    }
+  },
+  "services": {
+    "sectionLabel": "我们的服务",
+    "sectionTitle": "自信地买卖和租赁",
+    "buy": {
+      "title": "购买您的梦想房产",
+      "description": "探索迪拜最令人向往的社区，从迪拜市中心和棕榈岛到迪拜码头。",
+      "feature1": "精选房源，匹配您的生活方式和目标",
+      "feature2": "专业谈判，确保最佳交易",
+      "feature3": "法律和产权流程的全面指导",
+      "highlight": "投资价值、增长和安心。"
+    },
+    "sell": {
+      "title": "自信地出售",
+      "description": "让我们20年的市场经验帮助您获得最佳价格。",
+      "feature1": "基于当前市场趋势的精确估值",
+      "feature2": "专业营销、摄影和房源管理",
+      "feature3": "接触合格的买家和投资者",
+      "highlight": "您的房产脱颖而出，快速成交。"
+    },
+    "lease": {
+      "title": "高回报率租赁",
+      "description": "我们专注于租赁管理和高回报租赁机会。",
+      "feature1": "全方位租赁：定价、营销、筛选和合同",
+      "feature2": "数据驱动的洞察，最大化租金收益",
+      "feature3": "持续管理，无忧体验",
+      "highlight": "您的房产更努力工作，让您赚得更多。"
+    }
+  },
+  "whyChoose": {
+    "sectionLabel": "为什么选择我们",
+    "sectionTitle": "为什么选择 Rino Invest Group？",
+    "experience": {
+      "title": "20多年经验",
+      "description": "在迪拜充满活力的房地产市场中值得信赖的专业知识。"
+    },
+    "experts": {
+      "title": "专注的专家",
+      "description": "具有本地和全球市场洞察力的房产专家。"
+    },
+    "trackRecord": {
+      "title": "经验证的业绩",
+      "description": "数百次成功的销售、投资和满意的客户。"
+    },
+    "transparency": {
+      "title": "透明与信任",
+      "description": "客户满意度是我们一切工作的核心。"
+    }
+  },
+  "about": {
+    "sectionLabel": "关于 Rino Invest Group",
+    "sectionTitle": "不仅仅是房地产经纪人——我们是您的成长伙伴",
+    "description": "二十多年来，Rino Invest Group 一直在引导投资者、房主和租户完成他们在迪拜房地产旅程的每一步。我们对当地市场的深入了解和对卓越的承诺帮助数百位客户找到了真正有价值的房产。",
+    "point1": "迪拜各地的丰厚投资机会",
+    "point2": "优质社区的梦想家园",
+    "point3": "专业管理的高回报租赁组合",
+    "point4": "从咨询到交付的全程支持",
+    "imageAlt": "迪拜天际线，哈利法塔和现代豪华建筑"
+  },
+  "cta": {
+    "title": "今天开始您的房地产之旅",
+    "description": "迪拜房地产市场蓬勃发展，机会在等待。无论您想买、卖还是租，我们经验丰富的团队随时准备帮助您做出明智的选择。",
+    "consultation": "获取免费咨询",
+    "callUs": "立即致电",
+    "emailUs": "发送邮件"
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "meta": {
+    "title": "Binghatti Vintage JVC Dubai - Apartamentos de Lujo desde 742K AED ",
+    "description": "Descubre Binghatti Vintage en Jumeirah Village Circle (JVC), Dubai. Desarrollo premium con apartamentos de 1-2 dormitorios desde 742K AED. Arquitectura moderna con comodidades de clase mundial que incluyen piscinas, gimnasio, salas de negocios y áreas recreativas familiares. Planes de pago fáciles disponibles.",
+    "keywords": "Binghatti Vintage, JVC Dubai, apartamentos Jumeirah Village Circle, apartamentos de lujo Dubai, casas adosadas JVC, ático Dubai, bienes raíces Dubai, inversión inmobiliaria JVC, residencial de lujo Dubai, apartamentos premium JVC, Dubai Hills Mall cerca, acceso Al Khail Road, propiedad Dubai, Rino Properties Dubai, desarrollo de lujo JVC, apartamentos modernos Dubai, casas familiares Dubai, comodidades de lujo Dubai"
+  },
+  "highlights": {
+    "findDream": "Encuentra la casa de tus sueños en una de las ubicaciones",
+    "prestigious": "Más Prestigiosas de Dubai -JVC.",
+    "apartments": "Apartamentos Estudio + 1-2 Dormitorios",
+    "handover": "Entrega",
+    "handoverYear": "2027",
+    "downPayment": "Pago Inicial",
+    "downPaymentPercent": "20%"
+  },
+  "about": {
+    "heading": "Sobre el Proyecto",
+    "description": "Rino Properties, en colaboración con Tasmeer Indigo Properties, presenta Binghatti Vintage, un faro arquitectónico de sofisticación y clase. Nuestro compromiso es entregar calidad que define el lujo."
+  },
+  "gallery": {
+    "title": "Descubre la Galería",
+    "subtitle": "Galería Exterior e Interior"
+  },
+  "floorplans": {
+    "title": "Detalles del Piso",
+    "subtitle": "Edificio Boutique P + 5 • Balcón / Terraza en Cada Hogar",
+    "availableTitle": "Residencias Disponibles",
+    "studio": "Estudios",
+    "studioPrice": "Desde 744,000 AED",
+    "studioSize": "Interior: 350 pies² • Exterior: 71-77 pies² • Total: 421-427 pies²",
+    "studioFeature1": "Diseños de planta abierta",
+    "studioFeature2": "Balcón o terraza privada",
+    "oneBed": "1 Dormitorio",
+    "oneBedPrice": "1.2M – 1.7M AED",
+    "oneBedSize": "Interior: 644-652 pies² • Exterior: 148-155 pies² • Total: 798-804 pies²",
+    "oneBedFeature1": "Sala y comedor amplios",
+    "oneBedFeature2": "Acabados premium",
+    "twoBed": "2 Dormitorios",
+    "twoBedPrice": "1.8M – 1.94M AED",
+    "twoBedSize": "Interior: 1,043 pies² • Exterior: 176-241 pies² • Total: 1,219-1,284 pies²",
+    "twoBedFeature1": "Dormitorios principales con baño",
+    "twoBedFeature2": "Terrazas para entretenimiento",
+    "requestButton": "Solicitar Plano"
+  },
+  "whyChoose": {
+    "title": "¿POR QUÉ ELEGIR",
+    "subtitle": "RINO PROPERTIES?",
+    "globalReach": {
+      "title": "Alcance Global",
+      "description": "Nuestro equipo multilingüe ofrece comunicación fluida para una clientela global."
+    },
+    "services247": {
+      "title": "Servicios 24/7",
+      "description": "Brindamos soporte las 24 horas para una experiencia completamente libre de estrés."
+    },
+    "clientFirst": {
+      "title": "Enfoque en el Cliente",
+      "description": "Tu satisfacción es nuestra máxima prioridad, basada en confianza y transparencia."
+    },
+    "luxurySpecialists": {
+      "title": "Especialistas en Propiedades de Lujo",
+      "description": "Ofrecemos una experiencia personalizada enfocada en las propiedades más exclusivas."
+    }
+  },
+  "location": {
+    "title": "Ubicación",
+    "subtitle": "Transformado por",
+    "perspective": "Perspectiva",
+    "amenities": {
+      "publicTransport": "Transporte Público",
+      "childrenNursery": "Guardería Infantil",
+      "mosque": "Mezquita",
+      "alKhailRoad": "Al Khail Road",
+      "hotels": "Hoteles 4 y 5 Estrellas",
+      "circleMall": "Circle Mall",
+      "schools": "Escuelas",
+      "dubaiHillsMall": "Dubai Hills Mall"
+    }
+  },
+  "contact": {
+    "title": "Contáctenos",
+    "subtitle": "Programar una Visita",
+    "successMessage": "¡Gracias! Le contactaremos dentro de 24 horas para programar su visita.",
+    "errorMessage": "Por favor revise su formulario e intente nuevamente.",
+    "form": {
+      "firstName": "Nombre",
+      "lastName": "Apellido",
+      "phone": "Ingrese número de teléfono",
+      "email": "Su Correo Electrónico",
+      "visitDate": "Fecha de Visita",
+      "visitTime": "Hora de Visita",
+      "message": "Elija hora para llamada, Elija fecha para llamada",
+      "sendMessage": "ENVIAR MENSAJE",
+      "sending": "ENVIANDO...",
+      "searchCountries": "Buscar países..."
+    }
+  },
+  "popup": {
+    "title": "Programe su Visita",
+    "subtitle": "Reserve un tour personalizado de Binghatti Vintage y descubra la casa de sus sueños en JVC, Dubai.",
+    "benefit1": "Recorrido exclusivo de la propiedad",
+    "benefit2": "Conozca a nuestros consultores inmobiliarios expertos",
+    "benefit3": "Planes de pago flexibles y ofertas especiales",
+    "scheduleNow": "Programar Ahora",
+    "maybeLater": "Quizás Después",
+    "trustBadge": "🔒 Su información es segura y confidencial"
+  },
+  "popupForm": {
+    "bookTourTitle": "Reservar un Tour",
+    "getDetailsTitle": "Obtener Detalles Completos",
+    "bookTourSubtitle": "Programe una visita personalizada a Binghatti Vintage",
+    "getDetailsSubtitle": "Reciba planos, precios y ofertas actuales",
+    "successMessage": "¡Gracias! Le contactaremos dentro de 24 horas.",
+    "errorMessage": "Por favor revise su formulario e intente nuevamente.",
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "email": "Correo Electrónico",
+    "phone": "Número de Teléfono",
+    "searchCountries": "Buscar países...",
+    "noCountriesFound": "No se encontraron países",
+    "message": "¿Algún requisito o pregunta específica?",
+    "submitting": "Enviando...",
+    "bookNow": "Reservar Ahora",
+    "sendDetails": "Enviarme Detalles",
+    "privacyNote": "Su información es segura y nunca será compartida con terceros."
+  },
+  "successPopup": {
+    "title": "¡Gracias!",
+    "message": "Su solicitud ha sido recibida exitosamente. Nuestro equipo le contactará dentro de 24 horas.",
+    "downloadBrochure": "Descargar Folleto",
+    "close": "Cerrar",
+    "needHelp": "¿Necesita asistencia inmediata?",
+    "whatsapp": "WhatsApp",
+    "call": "Llámenos"
+  },
+  "footer": {
+    "companyName": "Rino Properties",
+    "description": "Rino Properties es parte de RINO Invest Group que ha estado dando forma al mercado inmobiliario de lujo desde 2024, entregando propiedades residenciales, comerciales y de ocio icónicas en el CCG y Europa.",
+    "quickLinks": "Enlaces Rápidos",
+    "overview": "Resumen",
+    "gallery": "Galería",
+    "floorplans": "Planos",
+    "location": "Ubicación",
+    "contact": "Contacto",
+    "contactInfo": "Contacto",
+    "address": "Rino Invest Group, Business Village Building – B, Oficina 330, Deira, Dubai, EAU",
+    "visitRino": "Visitar Rino Properties",
+    "privacyPolicy": "Política de Privacidad",
+    "termsOfUse": "Términos de Uso"
+  },
+  "floating": {
+    "whatsapp": "Contactar vía WhatsApp",
+    "phone": "Llámanos",
+    "email": "Enviar correo"
+  }
+}

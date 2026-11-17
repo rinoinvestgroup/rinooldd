@@ -1,0 +1,62 @@
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="skyGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#87CEEB;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E0F6FF;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="buildingGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#F5F5DC;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#D2B48C;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Sky Background -->
+  <rect width="1920" height="1080" fill="url(#skyGradient)"/>
+  
+  <!-- Ground -->
+  <rect x="0" y="800" width="1920" height="280" fill="#2F5233"/>
+  
+  <!-- Main Building -->
+  <rect x="500" y="300" width="800" height="500" fill="url(#buildingGradient)" stroke="#8B4513" stroke-width="3"/>
+  
+  <!-- Roof -->
+  <polygon points="450,300 960,150 1350,300" fill="#8B4513"/>
+  
+  <!-- Windows -->
+  <rect x="580" y="380" width="120" height="150" fill="#4169E1" opacity="0.7"/>
+  <rect x="750" y="380" width="120" height="150" fill="#4169E1" opacity="0.7"/>
+  <rect x="920" y="380" width="120" height="150" fill="#4169E1" opacity="0.7"/>
+  <rect x="1100" y="380" width="120" height="150" fill="#4169E1" opacity="0.7"/>
+  
+  <!-- Second Floor Windows -->
+  <rect x="580" y="580" width="120" height="150" fill="#4169E1" opacity="0.7"/>
+  <rect x="750" y="580" width="120" height="150" fill="#4169E1" opacity="0.7"/>
+  <rect x="920" y="580" width="120" height="150" fill="#4169E1" opacity="0.7"/>
+  <rect x="1100" y="580" width="120" height="150" fill="#4169E1" opacity="0.7"/>
+  
+  <!-- Door -->
+  <rect x="860" y="650" width="80" height="150" fill="#8B4513"/>
+  <circle cx="930" cy="720" r="5" fill="#FFD700"/>
+  
+  <!-- Trees -->
+  <ellipse cx="300" cy="750" rx="80" ry="120" fill="#228B22"/>
+  <rect x="290" y="750" width="20" height="50" fill="#8B4513"/>
+  
+  <ellipse cx="1500" cy="750" rx="80" ry="120" fill="#228B22"/>
+  <rect x="1490" y="750" width="20" height="50" fill="#8B4513"/>
+  
+  <!-- Clouds -->
+  <ellipse cx="300" cy="200" rx="60" ry="30" fill="white" opacity="0.8"/>
+  <ellipse cx="1600" cy="150" rx="80" ry="40" fill="white" opacity="0.8"/>
+  
+  <!-- Sun -->
+  <circle cx="1700" cy="200" r="60" fill="#FFD700" opacity="0.9"/>
+  
+  <!-- Property Text -->
+  <text x="960" y="950" text-anchor="middle" font-family="serif" font-size="48" font-weight="bold" fill="#2F4F4F">
+    LUXURY VILLA
+  </text>
+  <text x="960" y="1000" text-anchor="middle" font-family="serif" font-size="24" fill="#2F4F4F">
+    Premium Real Estate Property
+  </text>
+</svg>

@@ -1,0 +1,11 @@
+# Disavow file for Rino Properties
+# Use this file in Google Search Console to disavow toxic backlinks
+# Updated: December 16, 2025
+# Instructions: Upload this file to Google Search Console > Links > Disavow links
+
+# Spam domains affecting our backlink profile
+domain:sergechel.info
+domain:seo-tip.com
+domain:vickys.design
+domain:zhanhao.online
+domain:scrib.li

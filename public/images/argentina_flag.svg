@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#74ACDF"/>
+  <rect y="167" width="800" height="166" fill="#FFFFFF"/>
+  <circle cx="400" cy="250" r="40" fill="#F6B40E" stroke="#85340A" stroke-width="2"/>
+  <g transform="translate(400,250)">
+    <!-- Sun rays -->
+    <g fill="#F6B40E" stroke="#85340A" stroke-width="0.5">
+      <polygon points="0,-60 3,-20 -3,-20"/>
+      <polygon points="0,60 3,20 -3,20"/>
+      <polygon points="-60,0 -20,3 -20,-3"/>
+      <polygon points="60,0 20,3 20,-3"/>
+      <polygon points="-42,-42 -14,-17 -17,-14"/>
+      <polygon points="42,42 14,17 17,14"/>
+      <polygon points="42,-42 17,-14 14,-17"/>
+      <polygon points="-42,42 -17,14 -14,17"/>
+      <polygon points="-21,-56 -5,-19 -10,-17"/>
+      <polygon points="21,56 5,19 10,17"/>
+      <polygon points="-56,-21 -19,-5 -17,-10"/>
+      <polygon points="56,21 19,5 17,10"/>
+      <polygon points="21,-56 5,-19 10,-17"/>
+      <polygon points="-21,56 -5,19 -10,17"/>
+      <polygon points="56,-21 19,-5 17,-10"/>
+      <polygon points="-56,21 -19,5 -17,10"/>
+    </g>
+  </g>
+</svg>

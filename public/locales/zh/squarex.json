@@ -1,0 +1,156 @@
+{
+  "meta": {
+    "title": "SquareX One JVC 迪拜 - 豪华公寓起价 742K 迪拉姆 ",
+    "description": "探索位于迪拜朱美拉村圈（JVC）的 SquareX One。高端开发项目，提供 1-2 居室公寓，起价 742K 迪拉姆。现代建筑配备世界级设施，包括游泳池、健身套房、商务休息室和家庭娱乐区。提供便捷的付款计划。",
+    "keywords": "SquareX One, JVC 迪拜, 朱美拉村圈公寓, 迪拜豪华公寓, JVC 联排别墅, 迪拜顶层公寓, 迪拜房地产, JVC 房产投资, 迪拜豪华住宅, JVC 高端公寓, 迪拜山购物中心附近, Al Khail 路交通, 迪拜房产, Rino Properties 迪拜, JVC 豪华开发, 迪拜现代公寓, 迪拜家庭住宅, 迪拜豪华设施"
+  },
+  "highlights": {
+    "findDream": "在迪拜最负盛名的地点之一",
+    "prestigious": "找到您的梦想家园 - JVC。",
+    "apartments": "1-2 居室 + 工作室公寓",
+    "handover": "交付",
+    "handoverYear": "2027",
+    "downPayment": "首付",
+    "downPaymentPercent": "20%"
+  },
+  "about": {
+    "heading": "关于项目",
+    "description": "Rino Properties 与 Tasmeer Indigo Properties 合作推出 SquareX One，一座精致与品味的建筑灯塔。我们的承诺是提供定义奢华的品质。"
+  },
+  "gallery": {
+    "title": "探索画廊",
+    "subtitle": "外观和内部画廊"
+  },
+  "floorplans": {
+    "title": "楼层详情",
+    "subtitle": "精品建筑 G + 5 • 每个家庭都有阳台/露台",
+    "availableTitle": "可用住宅",
+    "studio": "工作室",
+    "studioPrice": "起价 744,000 迪拉姆",
+    "studioSize": "室内: 350 平方英尺 • 室外: 71-77 平方英尺 • 总计: 421-427 平方英尺",
+    "studioFeature1": "开放式布局",
+    "studioFeature2": "私人阳台或露台",
+    "oneBed": "一居室",
+    "oneBedPrice": "120万 – 170万 迪拉姆",
+    "oneBedSize": "室内: 644-652 平方英尺 • 室外: 148-155 平方英尺 • 总计: 798-804 平方英尺",
+    "oneBedFeature1": "宽敞的起居和用餐区",
+    "oneBedFeature2": "高级装修",
+    "twoBed": "两居室",
+    "twoBedPrice": "180万 – 194万 迪拉姆",
+    "twoBedSize": "室内: 1,043 平方英尺 • 室外: 176-241 平方英尺 • 总计: 1,219-1,284 平方英尺",
+    "twoBedFeature1": "带浴室的主卧",
+    "twoBedFeature2": "娱乐露台",
+    "requestButton": "索取户型图"
+  },
+  "whyChoose": {
+    "title": "为什么选择",
+    "subtitle": "RINO PROPERTIES？",
+    "globalReach": {
+      "title": "全球覆盖",
+      "description": "我们的多语言团队为全球客户提供无缝沟通。"
+    },
+    "services247": {
+      "title": "全天候服务",
+      "description": "我们提供全天候支持，确保完全无压力的体验。"
+    },
+    "clientFirst": {
+      "title": "客户至上",
+      "description": "您的满意是我们的首要任务，建立在信任和透明的基础上。"
+    },
+    "luxurySpecialists": {
+      "title": "豪华房产专家",
+      "description": "我们提供量身定制的体验，专注于最独特的房产。"
+    }
+  },
+  "location": {
+    "title": "位置",
+    "subtitle": "转变自",
+    "perspective": "视角",
+    "amenities": {
+      "publicTransport": "公共交通",
+      "childrenNursery": "儿童托儿所",
+      "mosque": "清真寺",
+      "alKhailRoad": "Al Khail 路",
+      "hotels": "4 & 5 星级酒店",
+      "circleMall": "Circle 购物中心",
+      "schools": "学校",
+      "dubaiHillsMall": "迪拜山购物中心"
+    }
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "安排参观",
+    "successMessage": "谢谢！我们将在 24 小时内与您联系以安排您的参观。",
+    "errorMessage": "请检查您的表单并重试。",
+    "form": {
+      "firstName": "名字",
+      "lastName": "姓氏",
+      "phone": "输入电话号码",
+      "email": "您的电子邮件",
+      "visitDate": "参观日期",
+      "visitTime": "参观时间",
+      "message": "选择通话时间，选择通话日期",
+      "sendMessage": "发送消息",
+      "sending": "发送中...",
+      "searchCountries": "搜索国家..."
+    }
+  },
+  "popup": {
+    "title": "安排您的参观",
+    "subtitle": "预订 SquareX One 的个性化参观，探索您在迪拜 JVC 的梦想家园。",
+    "benefit1": "独家房产参观",
+    "benefit2": "与我们的专业房产顾问见面",
+    "benefit3": "灵活的付款计划和特别优惠",
+    "scheduleNow": "立即安排",
+    "maybeLater": "稍后再说",
+    "trustBadge": "🔒 您的信息安全且保密"
+  },
+  "popupForm": {
+    "bookTourTitle": "预订参观",
+    "getDetailsTitle": "获取完整详情",
+    "bookTourSubtitle": "安排 SquareX One 的个性化参观",
+    "getDetailsSubtitle": "接收户型图、价格和当前优惠",
+    "successMessage": "谢谢！我们将在 24 小时内与您联系。",
+    "errorMessage": "请检查您的表单并重试。",
+    "firstName": "名字",
+    "lastName": "姓氏",
+    "email": "电子邮件地址",
+    "phone": "电话号码",
+    "searchCountries": "搜索国家...",
+    "noCountriesFound": "未找到国家",
+    "message": "有任何特殊要求或问题吗？",
+    "submitting": "提交中...",
+    "bookNow": "立即预订",
+    "sendDetails": "发送详情给我",
+    "privacyNote": "您的信息是安全的，绝不会与第三方共享。"
+  },
+  "successPopup": {
+    "title": "谢谢！",
+    "message": "您的请求已成功收到。我们的团队将在 24 小时内与您联系。",
+    "downloadBrochure": "下载宣传册",
+    "close": "关闭",
+    "needHelp": "需要立即帮助？",
+    "whatsapp": "WhatsApp",
+    "call": "致电我们"
+  },
+  "footer": {
+    "companyName": "Rino Properties",
+    "description": "Rino Properties 是 RINO Invest Group 的一部分，自 2024 年以来一直在塑造豪华房地产市场，在海湾合作委员会和欧洲提供标志性的住宅、商业和休闲物业。",
+    "quickLinks": "快速链接",
+    "overview": "概述",
+    "gallery": "画廊",
+    "floorplans": "户型图",
+    "location": "位置",
+    "contact": "联系",
+    "contactInfo": "联系方式",
+    "address": "Rino Invest Group，Business Village Building – B，办公室 330，Deira，迪拜，阿联酋",
+    "visitRino": "访问 Rino Properties",
+    "privacyPolicy": "隐私政策",
+    "termsOfUse": "使用条款"
+  },
+  "floating": {
+    "whatsapp": "通过 WhatsApp 联系",
+    "phone": "致电我们",
+    "email": "发送电子邮件"
+  }
+}

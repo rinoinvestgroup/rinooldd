@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "Dubai Real Estate Market Shows Strong Growth in Q1 2024",
+    "excerpt": "Comprehensive analysis of Dubai's real estate performance and future projections for investors.",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&h=600&fit=crop",
+    "date": "March 15, 2024",
+    "readTime": "5 min read",
+    "category": "Market trends",
+    "author": "Sarah Ahmed",
+    "tags": ["Dubai", "Market Analysis", "Growth"],
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "Complete Guide to UAE Golden Visa Through Real Estate",
+    "excerpt": "Everything you need to know about obtaining UAE residency through property investment.",
+    "image": "https://images.unsplash.com/photo-1560472355-536de3962603?w=800&h=600&fit=crop",
+    "date": "March 12, 2024",
+    "readTime": "8 min read",
+    "category": "Legal",
+    "author": "Ahmed Al-Mansouri",
+    "tags": ["Golden Visa", "Legal", "Residency"],
+    "featured": false
+  },
+  {
+    "id": 3,
+    "title": "Top 10 Investment Strategies for Spanish Real Estate",
+    "excerpt": "Proven investment strategies to maximize returns in Spain's dynamic property market.",
+    "image": "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=800&h=600&fit=crop",
+    "date": "March 10, 2024",
+    "readTime": "6 min read",
+    "category": "Investment",
+    "author": "Maria Rodriguez",
+    "tags": ["Spain", "Investment", "Strategy"],
+    "featured": true
+  },
+  {
+    "id": 4,
+    "title": "Living in Barcelona: A Complete Expat Guide",
+    "excerpt": "From neighborhoods to daily life, everything expats need to know about living in Barcelona.",
+    "image": "https://images.unsplash.com/photo-1539037116277-4db20889f2d4?w=800&h=600&fit=crop",
+    "date": "March 8, 2024",
+    "readTime": "7 min read",
+    "category": "Lifestyle",
+    "author": "Carlos Mendez",
+    "tags": ["Barcelona", "Expat Life", "Lifestyle"],
+    "featured": false
+  },
+  {
+    "id": 5,
+    "title": "5 Essential Tips for First-Time Property Buyers",
+    "excerpt": "Expert advice to help first-time buyers navigate the property purchase process successfully.",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=800&h=600&fit=crop",
+    "date": "March 5, 2024",
+    "readTime": "4 min read",
+    "category": "Tips & Advice",
+    "author": "Jennifer Smith",
+    "tags": ["First-time Buyers", "Tips", "Advice"],
+    "featured": false
+  },
+  {
+    "id": 6,
+    "title": "Luxury Penthouses: The Ultimate Investment in Dubai",
+    "excerpt": "Explore why luxury penthouses represent the pinnacle of Dubai real estate investment.",
+    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800&h=600&fit=crop",
+    "date": "March 3, 2024",
+    "readTime": "5 min read",
+    "category": "Properties",
+    "author": "Hassan Al-Zahra",
+    "tags": ["Luxury", "Penthouses", "Dubai"],
+    "featured": true
+  },
+  {
+    "id": 7,
+    "title": "RINO Properties Expands Portfolio with 50 New Listings",
+    "excerpt": "Latest company news on our expansion and new premium property listings across Spain and UAE.",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&h=600&fit=crop",
+    "date": "March 1, 2024",
+    "readTime": "3 min read",
+    "category": "News & Press",
+    "author": "RINO Team",
+    "tags": ["Company News", "Expansion", "Listings"],
+    "featured": false
+  },
+  {
+    "id": 8,
+    "title": "Understanding Property Tax Implications in Spain",
+    "excerpt": "Navigate the complex world of Spanish property taxes with our comprehensive legal guide.",
+    "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&h=600&fit=crop",
+    "date": "February 28, 2024",
+    "readTime": "9 min read",
+    "category": "Legal",
+    "author": "Isabel Garcia",
+    "tags": ["Spain", "Tax", "Legal"],
+    "featured": false
+  }
+]

@@ -1,0 +1,81 @@
+{
+  "leosRoyal": {
+    "mainTitle": "Leos Royal Dubai: Ultra-Luxury Living Redefined",
+    "subtitle": "Discover the pinnacle of luxury living. Leos Royal offers luxurious homes with top-notch features, stunning architecture, and an unmatched way of life.",
+    "form": {
+      "title": "Register Your Interest",
+      "subtitle": "Get exclusive access to Leos Royal",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "investment": "Investment Budget",
+      "message": "Message",
+      "submit": "Submit Inquiry",
+      "submitting": "Submitting...",
+      "successTitle": "Thank You!",
+      "successMessage": "We've received your inquiry and will contact you shortly.",
+      "privacy": "By submitting this form, you agree to our privacy policy and terms of service."
+    },
+    "about": {
+      "title": "WELCOME TO LEOS ROYAL",
+      "description": "LEOS ROYAL is a place where architecture listens and water breathes, generating a natural rhythm that calms the mind and softens the senses while the environment responds gently to create a lifestyle that feels grounded and fluid. LEOS ROYAL is a community shaped by stillness and movement. Being the first AI-powered community in the world, innovation is smoothly integrated into this serene environment, enriching rather than disrupting it. Technology works silently in the background to form a future that develops gradually, like light across still water."
+    },
+    "vision": {
+      "title": "A VISION ROOTED IN REFLECTION",
+      "description": "In order to create a location where life slows down and becomes more purposeful, LEOS ROYAL is envisioned as a tranquil haven where water, light, and architecture all coexist together. Modern life feels softer and more human as it follows a balanced rhythm that promotes presence and introspection. Spaces are still open, flowing, and welcoming, meant to enrich everyday living without overpowering the senses. Here, progress happens slowly, like light floating over motionless water."
+    },
+    "philosophy": {
+      "title": "THE PHILOSOPHY OF REFLECTION",
+      "description": "Water and light come together to form LEOS ROYAL, an environment where motion and stillness coexist as canals, waterfalls, and reflective surfaces provide peaceful moments that reestablish equilibrium throughout the day. Through delicate design and smooth transitions, every element is created to express emotional ease and organic harmony, adhering to a philosophy that prioritizes depth above intensity. As a result, you are invited to re-establish a deeper, more meaningful connection with life in a timeless, grounded community."
+    },
+    "architecture": {
+      "title": "FORM BEYOND ARCHITECTURE",
+      "description": "Curved shapes, soft materials, and light-filled surfaces all contribute to the serene sophistication of LEOS ROYAL's design, which is fashioned by intention and inspired by the natural world. As the building subtly changes with sunlight and daily cycles to create peaceful, seamless transitions, water plays a key function in cooling the air, setting the mood, and creating fluid movement over the landscape. It is a place that reacts to you, providing areas that are fluid, living, and thoughtfully designed for your comfort and well-being."
+    },
+    "unitSizes": {
+      "title": "UNIT SIZES",
+      "subtitle": "A constellation of peace is formed by LEOS ROYAL. Each has a distinct form but a common spirit.",
+      "townhouses": "The anticipated sellable size range for townhouses with three or four bedrooms and a maid's room is 2,407 to 3,233 square feet.",
+      "villas": "The anticipated sellable size range for villas with five to seven bedrooms, a maid's room, and a driver's room is 4,200 to 7,080 square feet."
+    },
+    "amenities": {
+      "title": "WORLD CLASS AMENITIES",
+      "description": "LEOS ROYAL, the first AI-powered community in the world, uses seamless, intuitive technology to improve daily life. From the intelligent Aurora Walk to the AI Wellness Arena led by Rio Ferdinand, innovation is seamlessly integrated into the surroundings. Every experience is designed to promote convenience, meaningful engagement, and wellness.",
+      "wellness": "AI WELLNESS AREA",
+      "reflection": "AI REFLECTION CLUB",
+      "atelier": "AI ATELIER STREET",
+      "aurora": "AI AURORA WALK",
+      "halo": "AI HALO PORT",
+      "rhythm": "AI RHYTHM LOUNGE",
+      "family": "AI FAMILY DISCOVERY"
+    },
+    "location": {
+      "title": "STRATEGIC LOCATION",
+      "description": "LEOS Royal is situated in one of Dubai's most strategic and linked locations, located across from Dubai Outlet Mall on Al Ain Road, about sixteen minutes from Downtown Dubai. Important locations are easily accessible from this ideal location, which provides easy access to Dubai International Airport and important metropolitan thoroughfares. The district is becoming a high-value center for families, professionals, and investors since it is surrounded by top schools, recreational opportunities, and rapidly expanding infrastructure. Convenience, connectivity, and long-term growth come together at LEOS Royal in an environment built for the future."
+    },
+    "contactForm": {
+      "title": "Contact Form",
+      "submit": "Submit"
+    },
+    "partnership": "Exclusive Partnership:",
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "Everything you need to know about Leos Royal Dubai",
+      "question1": "What makes Leos Royal unique in Dubai's luxury real estate market?",
+      "answer1": "Leos Royal is the world's first AI-powered residential community, seamlessly integrating cutting-edge technology with serene waterfront living. The architecture harmonizes with nature, creating a unique rhythm of stillness and movement that distinguishes it from other luxury developments in Dubai.",
+      "question2": "What are the available unit sizes at Leos Royal?",
+      "answer2": "Leos Royal offers premium residences ranging from spacious 1-bedroom apartments to expansive penthouses. Each unit is meticulously designed with luxury finishes, smart home integration, and panoramic views, catering to diverse lifestyle preferences.",
+      "question3": "What amenities are included in the development?",
+      "answer3": "Residents enjoy world-class amenities including infinity pools, state-of-the-art fitness centers, spa facilities, landscaped gardens, children's play areas, 24/7 concierge services, and AI-powered smart home features. The development also includes retail spaces, dining options, and waterfront promenades.",
+      "question4": "What is the partnership between Rino Properties and Leos Royal?",
+      "answer4": "Rino Properties has an exclusive partnership with Leos Royal, serving as the premier real estate agency for this exceptional development. Our partnership ensures clients receive expert guidance, exclusive access to units, and comprehensive after-sales support throughout their investment journey.",
+      "question5": "What are the payment plans and investment opportunities?",
+      "answer5": "Leos Royal offers flexible payment plans designed for both end-users and investors. With competitive pricing, attractive ROI potential, and Dubai's strong rental market, it presents an excellent investment opportunity. Contact our team to discuss customized payment options tailored to your requirements.",
+      "question6": "Where is Leos Royal located in Dubai?",
+      "answer6": "Leos Royal is strategically positioned in one of Dubai's most prestigious waterfront locations, offering exceptional connectivity to key business districts, entertainment hubs, and international airports. The prime location ensures residents enjoy both tranquility and accessibility to urban amenities.",
+      "contactText": "Have more questions? Our team is here to help!",
+      "contactButton": "Contact Us Now"
+    }
+  }
+}

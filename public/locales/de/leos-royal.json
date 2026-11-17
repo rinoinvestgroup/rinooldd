@@ -1,0 +1,61 @@
+{
+  "leosRoyal": {    "mainTitle": "Leos Royal Dubai: Ultraluxuriöses Leben neu definiert",    "subtitle": "Entdecken Sie den Gipfel des luxuriösen Wohnens. Leos Royal bietet luxuriöse Häuser mit erstklassigen Funktionen, atemberaubender Architektur und einer unvergleichlichen Lebensweise.",
+    "form": {
+      "title": "Registrieren Sie Ihr Interesse",
+      "subtitle": "Erhalten Sie exklusiven Zugang zu Leos Royal",
+      "firstName": "Vorname",
+      "lastName": "Nachname",
+      "email": "E-Mail-Adresse",
+      "phone": "Telefonnummer",
+      "investment": "Investitionsbudget",
+      "message": "Nachricht",
+      "submit": "Anfrage senden",
+      "submitting": "Wird gesendet...",
+      "successTitle": "Vielen Dank!",
+      "successMessage": "Wir haben Ihre Anfrage erhalten und werden Sie in Kürze kontaktieren.",
+      "privacy": "Mit dem Absenden dieses Formulars stimmen Sie unserer Datenschutzrichtlinie und den Nutzungsbedingungen zu."
+    },
+    "about": {
+      "title": "WILLKOMMEN BEI LEOS ROYAL",
+      "description": "LEOS ROYAL ist ein Ort, an dem Architektur zuhört und Wasser atmet und einen natürlichen Rhythmus erzeugt, der den Geist beruhigt und die Sinne erweicht, während die Umgebung sanft reagiert, um einen Lebensstil zu schaffen, der sich geerdet und fließend anfühlt. LEOS ROYAL ist eine Gemeinschaft, die von Stille und Bewegung geprägt ist. Als weltweit erste KI-gestützte Gemeinschaft wird Innovation nahtlos in diese ruhige Umgebung integriert und bereichert sie, anstatt sie zu stören. Die Technologie arbeitet still im Hintergrund, um eine Zukunft zu formen, die sich allmählich entwickelt, wie Licht über stillem Wasser."
+    },
+    "vision": {
+      "title": "EINE VISION, DIE IN REFLEXION VERWURZELT IST",
+      "description": "Um einen Ort zu schaffen, an dem das Leben langsamer wird und zielgerichteter wird, wird LEOS ROYAL als ruhige Oase konzipiert, in der Wasser, Licht und Architektur zusammen koexistieren. Das moderne Leben fühlt sich weicher und menschlicher an, da es einem ausgewogenen Rhythmus folgt, der Präsenz und Introspection fördert. Die Räume sind immer noch offen, fließend und einladend und sollen das tägliche Leben bereichern, ohne die Sinne zu überwältigen. Hier geschieht Fortschritt langsam, wie Licht, das über reglosem Wasser schwebt."
+    },
+    "philosophy": {
+      "title": "DIE PHILOSOPHIE DER REFLEXION",
+      "description": "Wasser und Licht kommen zusammen, um LEOS ROYAL zu formen, eine Umgebung, in der Bewegung und Stille koexistieren, da Kanäle, Wasserfälle und reflektierende Oberflächen friedliche Momente bieten, die das Gleichgewicht den ganzen Tag über wiederherstellen. Durch zartes Design und sanfte Übergänge wird jedes Element geschaffen, um emotionale Leichtigkeit und organische Harmonie auszudrücken, wobei eine Philosophie befolgt wird, die Tiefe über Intensität priorisiert. Als Ergebnis werden Sie eingeladen, eine tiefere, bedeutungsvollere Verbindung mit dem Leben in einer zeitlosen, geerdeten Gemeinschaft wieder herzustellen."
+    },
+    "architecture": {
+      "title": "FORM JENSEITS DER ARCHITEKTUR",
+      "description": "Das Design bei LEOS ROYAL wird durch Absicht geformt und von der natürlichen Umgebung geleitet, wo geschwungene Formen, weiche Materialien und lichtdurchflutete Oberflächen ein Gefühl ruhiger Raffinesse schaffen. Wasser spielt eine zentrale Rolle, kühlt die Luft, formt die Stimmung und fügt fließende Bewegung über die Landschaft hinzu, während die Architektur sanft mit Sonnenlicht und täglichen Rhythmen wechselt, um ruhige, nahtlose Übergänge zu schaffen. Es ist ein Ort, der auf Sie reagiert und Räume bietet, die sich lebendig, fließend und bewusst für Komfort und Wohlbefinden gestaltet anfühlen."
+    },
+    "unitSizes": {
+      "title": "EINHEITSGRÖSSEN",
+      "subtitle": "Eine Konstellation des Friedens wird von LEOS ROYAL gebildet. Jedes hat eine eigene Form, aber einen gemeinsamen Geist.",
+      "townhouses": "Die voraussichtliche verkäufliche Größe für Stadthäuser mit drei oder vier Schlafzimmern und einem Dienstmädchenzimmer beträgt 2.407 bis 3.233 Quadratfuß.",
+      "villas": "Die voraussichtliche verkäufliche Größe für Villen mit fünf bis sieben Schlafzimmern, einem Dienstmädchenzimmer und einem Fahrerzimmer beträgt 4.200 bis 7.080 Quadratfuß."
+    },
+    "amenities": {
+      "title": "WELTKLASSE-ANNEHMLICHKEITEN",
+      "description": "Als weltweit erste KI-gesteuerte Gemeinschaft verbessert LEOS ROYAL das tägliche Leben durch intuitive, nahtlose Technologie und webt Innovation mühelos in die Umgebung ein, von der KI-Wellness-Arena, die von Rio Ferdinand geleitet wird, bis zum intelligenten Aurora Walk. Jede Erfahrung ist so gestaltet, dass sie Gesundheit, Komfort und sinnvolles Engagement unterstützt.",
+      "wellness": "KI-WELLNESS-BEREICH",
+      "reflection": "KI-REFLEXIONSCLUB",
+      "atelier": "KI-ATELIER-STRASSE",
+      "aurora": "KI-AURORA-WEG",
+      "halo": "KI-HALO-HAFEN",
+      "rhythm": "KI-RHYTHMUS-LOUNGE",
+      "family": "KI-FAMILIENENTDECKUNG"
+    },
+    "location": {
+      "title": "STRATEGISCHE LAGE",
+      "description": "LEOS Royal befindet sich in einer der strategischsten und verbundensten Lagen Dubais, gegenüber der Dubai Outlet Mall an der Al Ain Road, etwa sechzehn Minuten von Downtown Dubai entfernt. Wichtige Standorte sind von diesem idealen Standort aus leicht erreichbar, der einfachen Zugang zum Dubai International Airport und wichtigen städtischen Verkehrsadern bietet. Der Bezirk wird zu einem Hochwertzentrum für Familien, Berufstätige und Investoren, da er von Top-Schulen, Freizeitangeboten und schnell wachsender Infrastruktur umgeben ist. Bequemlichkeit, Konnektivität und langfristiges Wachstum kommen bei LEOS Royal in einer für die Zukunft gebauten Umgebung zusammen."
+    },
+    "contactForm": {
+      "title": "Kontaktformular",
+      "submit": "Senden"
+    },
+    "partnership": "Exklusive Partnerschaft:"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "title": "Dubai Property Services | Buy, Sell & Lease",
+    "description": "Rino Invest Group Your Trusted Dubai Property Partner for 20+ Years. Expert guidance for buying, selling, and leasing premium Dubai real estate.",
+    "keywords": "Dubai property, buy property Dubai, sell property Dubai, lease Dubai, real estate Dubai, Rino Invest Group, Dubai investment, Palm Jumeirah, Downtown Dubai, Dubai Marina"
+  },
+  "hero": {
+    "welcomeTo": "Welcome to",
+    "companyName": "Rino Invest Group",
+    "description": "Your Trusted Dubai Property Partner. We guide investors, homeowners, and tenants through every step of their real estate journey delivering",
+    "lucrativeInvestments": "lucrative investments",
+    "dreamHomes": "dream homes",
+    "highReturnRentals": "high-return rental portfolios",
+    "propertiesSold": "Properties Sold",
+    "happyClients": "Happy Clients",
+    "yearsInDubai": "Years in Dubai",
+    "exploreServices": "Explore Our Services"
+  },
+  "form": {
+    "title": "Get a Free Consultation",
+    "subtitle": "Tell us about your property goals and we'll get back to you within 24 hours.",
+    "fullName": "Full Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "interestedIn": "I'm Interested In",
+    "message": "Message",
+    "messagePlaceholder": "Tell us about your property goals...",
+    "submit": "Get Free Consultation",
+    "sending": "Sending…",
+    "consent": "By submitting, you agree to be contacted by Rino Invest Group regarding your inquiry.",
+    "successTitle": "Thank You!",
+    "successMessage": "Your inquiry has been received. Our team will contact you within 24 hours.",
+    "errorDefault": "Something went wrong. Please try again later.",
+    "searchCountry": "Search country...",
+    "noResults": "No results",
+    "options": {
+      "generalInquiry": "General Inquiry",
+      "buyingProperty": "Buying Property",
+      "sellingProperty": "Selling Property",
+      "leasingRenting": "Leasing / Renting",
+      "investmentConsultation": "Investment Consultation"
+    }
+  },
+  "services": {
+    "sectionLabel": "Our Services",
+    "sectionTitle": "Buy, Sell & Lease with Confidence",
+    "buy": {
+      "title": "Buy Your Dream Property",
+      "description": "Discover Dubai's most desirable neighborhoods from Downtown Dubai and Palm Jumeirah to Dubai Marina.",
+      "feature1": "Curated listings to match your lifestyle and goals",
+      "feature2": "Expert negotiation to secure the best deals",
+      "feature3": "Full guidance through legal and ownership processes",
+      "highlight": "Invest in value, growth, and peace of mind."
+    },
+    "sell": {
+      "title": "Sell with Confidence",
+      "description": "Let our 20 years of market experience help you get the best possible price.",
+      "feature1": "Accurate valuations based on current market trends",
+      "feature2": "Professional marketing, photography & listing management",
+      "feature3": "Access to qualified buyers and investors",
+      "highlight": "Your property stands out and sells fast."
+    },
+    "lease": {
+      "title": "Lease with High ROI",
+      "description": "We specialize in rental management and high-return leasing opportunities.",
+      "feature1": "End-to-end leasing: pricing, marketing, screening & contracts",
+      "feature2": "Data-driven insights to maximize rental yield",
+      "feature3": "Continuous management for a hassle-free experience",
+      "highlight": "Your property works harder so you earn more."
+    }
+  },
+  "whyChoose": {
+    "sectionLabel": "Why Choose Us",
+    "sectionTitle": "Why Choose Rino Invest Group?",
+    "experience": {
+      "title": "20+ Years of Experience",
+      "description": "Trusted real estate expertise in Dubai's dynamic property market."
+    },
+    "experts": {
+      "title": "Dedicated Experts",
+      "description": "Property specialists with local and global market insights."
+    },
+    "trackRecord": {
+      "title": "Proven Track Record",
+      "description": "Hundreds of successful sales, investments, and satisfied clients."
+    },
+    "transparency": {
+      "title": "Transparency & Trust",
+      "description": "Client satisfaction at the core of everything we do."
+    }
+  },
+  "about": {
+    "sectionLabel": "About Rino Invest Group",
+    "sectionTitle": "More Than Real Estate Agents — We're Your Partners in Growth",
+    "description": "For over two decades, Rino Invest Group has been guiding investors, homeowners, and tenants through every step of their real estate journey in Dubai. Our deep knowledge of the local market and commitment to excellence have helped hundreds of clients find properties that truly deliver.",
+    "point1": "Lucrative investment opportunities across Dubai",
+    "point2": "Dream homes in premium neighborhoods",
+    "point3": "High-return rental portfolios with expert management",
+    "point4": "End-to-end support from consultation to handover",
+    "imageAlt": "Dubai skyline with Burj Khalifa and modern luxury buildings"
+  },
+  "cta": {
+    "title": "Start Your Real Estate Journey Today",
+    "description": "Dubai's property market is thriving and opportunities are waiting. Whether you want to buy, sell, or lease, our experienced team is ready to help you make a smart move.",
+    "consultation": "Get Free Consultation",
+    "callUs": "Call Us Now",
+    "emailUs": "Email Us"
+  }
+}

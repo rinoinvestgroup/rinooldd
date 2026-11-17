@@ -1,0 +1,156 @@
+{
+  "meta": {
+    "title": "SquareX One JVC Dubai - Luxury Apartments Starting AED 742K ",
+    "description": "Discover SquareX One in Jumeirah Village Circle (JVC), Dubai. Premium development featuring 1-2 bedroom apartments starting from AED 742K. Modern architecture with world-class amenities including swimming pools, fitness suite, business lounges, and family recreation areas. Easy payment plans available.",
+    "keywords": "SquareX One, JVC Dubai, Jumeirah Village Circle apartments, Dubai luxury apartments, JVC townhouses, Dubai penthouse, Dubai real estate, JVC property investment, luxury residential Dubai, premium apartments JVC, Dubai Hills Mall nearby, Al Khail Road access, Dubai property, Rino Properties Dubai, JVC luxury development, modern apartments Dubai, Dubai family homes, luxury amenities Dubai"
+  },
+  "highlights": {
+    "findDream": "Find Your Dream Home in One of Dubai's",
+    "prestigious": "Most Prestigious Locations -JVC.",
+    "apartments": "1-2 Bedroom + Studio Apartments",
+    "handover": "HandOver",
+    "handoverYear": "2027",
+    "downPayment": "Down Payment",
+    "downPaymentPercent": "20%"
+  },
+  "about": {
+    "heading": "About the Project",
+    "description": "Rino Properties, in collaboration with Tasmeer Indigo Properties, is introducing SquareX One, an architectural beacon of sophistication and class. Our commitment is to deliver quality that defines luxury."
+  },
+  "gallery": {
+    "title": "Discover Gallery",
+    "subtitle": "Exterior & Interior Gallery"
+  },
+  "floorplans": {
+    "title": "Floor Details",
+    "subtitle": "G + 5 Boutique Building • Balcony / Terrace in Every Home",
+    "availableTitle": "Available Residences",
+    "studio": "Studios",
+    "studioPrice": "From AED 744,000",
+    "studioSize": "Internal: 350 sq.ft • Outdoor: 71-77 sq.ft • Total: 421-427 sq.ft",
+    "studioFeature1": "Open-plan layouts",
+    "studioFeature2": "Private balcony or terrace",
+    "oneBed": "1 Bedroom",
+    "oneBedPrice": "AED 1.2M – 1.7M",
+    "oneBedSize": "Internal: 644-652 sq.ft • Outdoor: 148-155 sq.ft • Total: 798-804 sq.ft",
+    "oneBedFeature1": "Spacious living & dining",
+    "oneBedFeature2": "Premium finishes",
+    "twoBed": "2 Bedrooms",
+    "twoBedPrice": "AED 1.8M – 1.94M",
+    "twoBedSize": "Internal: 1,043 sq.ft • Outdoor: 176-241 sq.ft • Total: 1,219-1,284 sq.ft",
+    "twoBedFeature1": "En-suite masters",
+    "twoBedFeature2": "Entertainer terraces",
+    "requestButton": "Request Floor Plan"
+  },
+  "whyChoose": {
+    "title": "WHY CHOOSE",
+    "subtitle": "RINO PROPERTIES?",
+    "globalReach": {
+      "title": "Global Reach",
+      "description": "Our multilingual team offers seamless communication for a global clientele."
+    },
+    "services247": {
+      "title": "24/7 Services",
+      "description": "We provide round-the-clock support for a completely stress-free experience."
+    },
+    "clientFirst": {
+      "title": "Client-First Approach",
+      "description": "Your satisfaction is our top priority, built on trust and transparency."
+    },
+    "luxurySpecialists": {
+      "title": "Luxury Property Specialists",
+      "description": "We offer a tailored experience focused on the most exclusive properties."
+    }
+  },
+  "location": {
+    "title": "Location",
+    "subtitle": "Transformed by",
+    "perspective": "Perspective",
+    "amenities": {
+      "publicTransport": "Public Transport",
+      "childrenNursery": "Children Nursery",
+      "mosque": "Mosque",
+      "alKhailRoad": "Al Khail Road",
+      "hotels": "4 & 5 Star Hotels",
+      "circleMall": "Circle Mall",
+      "schools": "Schools",
+      "dubaiHillsMall": "Dubai Hills Mall"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Schedule a Visit",
+    "successMessage": "Thank you! We will contact you within 24 hours to schedule your visit.",
+    "errorMessage": "Please check your form and try again.",
+    "form": {
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "phone": "Enter phone number",
+      "email": "Your Email",
+      "visitDate": "Visit Date",
+      "visitTime": "Visit Time",
+      "message": "Choose time for call, Choose date for call",
+      "sendMessage": "SEND MESSAGE",
+      "sending": "SENDING...",
+      "searchCountries": "Search countries..."
+    }
+  },
+  "popup": {
+    "title": "Schedule Your Visit",
+    "subtitle": "Book a personalized tour of SquareX One and discover your dream home in JVC, Dubai.",
+    "benefit1": "Exclusive property walkthrough",
+    "benefit2": "Meet our expert property consultants",
+    "benefit3": "Flexible payment plans & special offers",
+    "scheduleNow": "Schedule Now",
+    "maybeLater": "Maybe Later",
+    "trustBadge": "🔒 Your information is secure and confidential"
+  },
+  "popupForm": {
+    "bookTourTitle": "Book a Tour",
+    "getDetailsTitle": "Get Full Details",
+    "bookTourSubtitle": "Schedule a personalized visit to SquareX One",
+    "getDetailsSubtitle": "Receive floor plans, pricing & current offers",
+    "successMessage": "Thank you! We will contact you within 24 hours.",
+    "errorMessage": "Please check your form and try again.",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "searchCountries": "Search countries...",
+    "noCountriesFound": "No countries found",
+    "message": "Any specific requirements or questions?",
+    "submitting": "Submitting...",
+    "bookNow": "Book Now",
+    "sendDetails": "Send Me Details",
+    "privacyNote": "Your information is secure and will never be shared with third parties."
+  },
+  "successPopup": {
+    "title": "Thank You!",
+    "message": "Your request has been received successfully. Our team will contact you within 24 hours.",
+    "downloadBrochure": "Download Brochure",
+    "close": "Close",
+    "needHelp": "Need immediate assistance?",
+    "whatsapp": "WhatsApp",
+    "call": "Call Us"
+  },
+  "footer": {
+    "companyName": "Rino Properties",
+    "description": "Rino Properties is a part of RINO Invest Group that has been shaping the luxury real estate market since 2024, delivering iconic residential, commercial and leisure properties across the GCC and Europe.",
+    "quickLinks": "Quick Links",
+    "overview": "Overview",
+    "gallery": "Gallery",
+    "floorplans": "Floorplans",
+    "location": "Location",
+    "contact": "Contact",
+    "contactInfo": "Contact",
+    "address": "Rino Invest Group, Business Village Building – B, Office 330, Deira, Dubai, UAE",
+    "visitRino": "Visit Rino Properties",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfUse": "Terms of Use"
+  },
+  "floating": {
+    "whatsapp": "Contact via WhatsApp",
+    "phone": "Call us",
+    "email": "Send email"
+  }
+}

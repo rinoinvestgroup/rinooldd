@@ -1,0 +1,1282 @@
+{
+  "christmas": {
+    "greeting": "🎅 Frohe Weihnachten und schöne Feiertage! 🎁",
+    "message": "Wir wünschen Ihnen Freude, Frieden und Wohlstand in dieser festlichen Jahreszeit",
+    "popup": {
+      "title": "Frohe Weihnachten!",
+      "message": "Möge diese festliche Jahreszeit Ihnen Freude, Frieden und Wohlstand bringen. Vielen Dank, dass Sie Teil der Rino Properties Familie sind!",
+      "from": "Von uns allen bei",
+      "explore": "Entdecken Sie unsere Immobilien 🏡"
+    }
+  },
+  "nav": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "properties": "Immobilien",
+    "blog": "Einblicke", 
+    "contact": "Kontakt",
+    "agents": "Makler",
+    "sell": "Verkaufen",
+    "allProperties": "Alle Immobilien",
+    "spainProperties": "Spanische Immobilien",
+    "dubaiProperties": "Dubai Immobilien",
+    "offPlan": "Neubauprojekte",
+    "commercial": "Gewerbe",
+    "buy": "Kaufen",
+    "rent": "Mieten",
+    "internationalProperties": "Internationale Immobilien"
+  },
+  "hero": {
+    "title": "Vertrauenspartner für Luxusimmobilien in Dubai und Spanien",
+    "subtitle": "Premium-Häuser und erstklassige Investitionen, maßgeschneidert für anspruchsvolle Käufer, die das Beste in Immobilien suchen.",
+    "enterSpain": "Spanien betreten",
+    "enterUAE": "Dubai betreten",
+    "searchPlaceholder": "Immobilien suchen...",
+    "searchButton": "Immobilien suchen"
+  },
+  "about": {
+    "heading": "Die Kunst des luxuriösen Lebens neu definieren",
+    "subheading": "Rino Properties ist ein luxuriöses Immobilienunternehmen mit Sitz in Marbella und Dubai.",
+    "description1": "Rino Properties ist ein Luxus-Immobilienunternehmen mit Sitz in Dubai und Spanien. Wir bieten eine Mischung aus internationaler Expertise, exklusiven Angeboten und außergewöhnlichen Luxusdienstleistungen.",
+    "description2": "Vom Kauf und Verkauf bis hin zur Investitionsberatung, Rechtsberatung und Concierge-Service ist unser Ziel einfach - Ihre Lebensqualität mit personalisierten Dienstleistungen zu verbessern.",
+    "description3": "Ob Sie Ihr Traumhaus sichern, Ihre nächste Investition oder einen Urlaubsort - wir sind hier, um die gesamte Reise mühelos, transparent und außergewöhnlich zu gestalten. Luxus ist nicht nur eine Immobilie. Mit Rino ist es das gesamte Erlebnis.",
+    "ctaButton": "Lernen Sie uns kennen",
+    "page": {
+      "title": "Über uns",
+      "subtitle": "Rino Properties – Luxus neu definieren, neue Maßstäbe setzen",
+      "scroll": "Scrollen",
+      "companyName": "Rino Properties!",
+      "companyDescription1": "Rino Properties ist Teil der RINO Invest Group, die seit 2024 den Luxus-Immobilienmarkt prägt und ikonische Wohn-, Gewerbe- und Freizeitimmobilien im GCC und in Europa liefert.",
+      "companyDescription2": "Mit unseren strategisch in Spanien und Dubai platzierten Büros bietet Rino Properties eine umfassende Suite von Dienstleistungen, die darauf ausgelegt sind, alle Ihre Immobilienbedürfnisse zu erfüllen. Diese Dienstleistungen umfassen Immobilienverkäufe, Immobilien-Wiederverkauf, Immobilienverwaltung, Ferienhäuser und dedizierte Concierge-Services.",
+      "companyDescription3": "Unser erfahrenes Team von über 10 Immobilienexperten bringt eine Fülle von Wissen und Kompetenz mit und kommuniziert effektiv mit einer globalen Kundschaft in Sprachen wie Spanisch, Arabisch, Chinesisch, Deutsch, Tagalog, Urdu und Englisch.",
+      "getInTouch": "Kontakt aufnehmen",
+      "vision": {
+        "title": "Unsere",
+        "titleHighlight": "Vision",
+        "description1": "Unsere Vision ist es, der vertrauenswürdige Immobilienpartner in Spanien und Dubai zu sein, während unser Ziel ist, 100% Kundenzufriedenheit zu bieten. Luxuriöser Geschmack, königliche Behandlung. Das ist unser Versprechen.",
+        "description2": "Rino Property, als eines der besten Immobilienverwaltungsunternehmen in Dubai betrachtet, bietet Beratungsdienstleistungen für Immobilienverwaltung, um Kunden auf der ganzen Welt beim Aufbau und der Diversifizierung ihres starken Immobilienportfolios zu helfen."
+      },
+      "services": {
+        "title": "Unsere Dienstleistungen",
+        "luxuryRealEstate": "Luxus-Immobiliendienstleistungen",
+        "legalConsultation": "Rechtliche Immobilienberatung",
+        "investmentManagement": "Investment-Asset-Management",
+        "propertiesRent": "Mietimmobilien in Dubai",
+        "companyFormation": "Unternehmensgründung in Spanien",
+        "conciergeServices": "Luxuriöse Concierge-Services"
+      },
+      "ceo": {
+        "meetTitle": "Lernen Sie unseren visionären CEO kennen!",
+        "name": "Herr Ferdinand Jordan",
+        "description1": "Lernen Sie unseren visionären Geschäftsführer bei Rino Properties kennen, der einen tiefgreifenden Hintergrund in strategischen Investitionen und eine Leidenschaft für die Bereitstellung hochwertiger, luxuriöser Möglichkeiten in der Immobilienwelt mitbringt.",
+        "description2": "Als treibende Kraft hinter Rino Properties — Gründer der Rino Invest Group — bringt Herr Jordan das außergewöhnliche Wachstum und den Ruf des Unternehmens im GCC und in Europa voran."
+      },
+      "team": {
+        "title": "Unser",
+        "titleHighlight": "Team"
+      }
+    }
+  },
+  "valuation": {
+    "title": "Kostenlose Immobilienbewertung",
+    "subtitle": "Expertenbeurteilung erhalten",
+    "heading": "Erhalten Sie eine kostenlose Immobilienbewertung von unserem Expertenberatungsteam",
+    "description": "Finden Sie heraus, was Ihre Immobilie wert sein könnte mit einer kostenlosen Bewertungsanfrage von einem Mitglied unseres erfahrenen Immobilienberatungsteams.",
+    "ctaButton": "Kostenlose Immobilienbewertung"
+  },
+  "properties": {
+    "title": "Luxusimmobilien",
+    "subtitle": "Entdecken Sie unsere vollständige Sammlung von Premium-Immobilien in den prestigeträchtigsten Lagen Spaniens und Dubais",
+    "exploreProperties": "Immobilien erkunden",
+    "viewDetails": "Details anzeigen",
+    "viewOnMap": "Auf Google Maps anzeigen",
+    "inquireNow": "Jetzt anfragen",
+    "callNow": "Jetzt anrufen",
+    "sendInquiry": "Anfrage senden",
+    "details": "DETAILS",
+    "amenities": "AUSSTATTUNG",
+    "clearAllFilters": "Alle Filter löschen",
+    "noPropertiesFound": "Keine Immobilien gefunden, die Ihren Kriterien entsprechen",
+    "loading": "Immobilien werden geladen...",
+    "page": {
+      "title": "Luxus",
+      "titleHighlight": "Immobilien",
+      "spainProperties": "Spanische Immobilien",
+      "dubaiProperties": "Dubai Immobilien",
+      "scroll": "Scrollen",
+      "propertiesFound": "Immobilien Gefunden",
+      "searchResultsFor": "Suchergebnisse für",
+      "properties": "immobilien",
+      "filterProperties": "Immobilien Filtern",
+      "clearSearch": "Suche Löschen",
+      "propertyType": "Immobilientyp",
+      "country": "Land",
+      "city": "Gebiete",
+      "status": "Status",
+      "listingType": "Angebotstyp",
+      "sortBy": "Sortieren Nach",
+      "all": "Alle",
+      "allCities": "Alle Gebiete",
+      "allTypes": "Alle Typen",
+      "featuredFirst": "Empfohlene Zuerst",
+      "priceLowToHigh": "Preis: Niedrig zu Hoch",
+      "priceHighToLow": "Preis: Hoch zu Niedrig",
+      "newestFirst": "Neueste Zuerst",
+      "errorLoading": "Fehler beim Laden der Immobilien",
+      "retry": "Wiederholen",
+      "noPropertiesFoundMessage": "Keine Immobilien Gefunden",
+      "adjustFilters": "Versuchen Sie, Ihre Filter anzupassen, um mehr Immobilien zu sehen.",
+      "statusOptions": {
+        "sold": "Verkauft",
+        "approved": "Verfügbar",
+        "negotiable": "Verhandelbar"
+      },
+      "listingTypeOptions": {
+        "offPlan": "Off-Plan",
+        "readyToMove": "Bezugsfertig"
+      },
+      "stats": {
+        "properties": "Immobilien",
+        "cities": "Städte",
+        "featured": "Empfohlen",
+        "countries": "Länder"
+      },
+      "cta": {
+        "title": "Finden Sie Heute Ihre Perfekte Immobilie",
+        "description": "Unser internationales Expertenteam ist bereit, Ihnen bei der Suche nach der perfekten Immobilieninvestition in Spanien oder Dubai zu helfen.",
+        "contactTeam": "Unser Team Kontaktieren",
+        "scheduleCall": "Anruf Planen"
+      }
+    },
+    "featured": {
+      "title": "Werfen Sie einen Blick auf unsere neuesten",
+      "titleHighlight": "Immobilienangebote",
+      "subtitle": "Entdecken Sie unsere neuesten Immobilien in Spanien und Dubai, eine Premium-Auswahl, die auf Ihre Bedürfnisse zugeschnitten ist.",
+      "filterAll": "Alle",
+      "filterVilla": "Villa",
+      "filterApartment": "Wohnung",
+      "filterPenthouse": "Penthouse",
+      "filterCommercial": "Gewerbe",
+      "noPropertiesFilter": "Keine Immobilien für den ausgewählten Filter gefunden.",
+      "tryAgain": "Erneut versuchen",
+      "notWhatLookingFor": "Nicht genau das, wonach Sie suchen?",
+      "searchForProperty": "Nach einer Immobilie suchen"
+    },
+    "stats": {
+      "properties": "Immobilien",
+      "cities": "Städte", 
+      "featured": "Empfohlen",
+      "countries": "Länder"
+    }
+  },
+  "dubai": {
+    "head": {
+      "title": "Immobilien in Dubai - Rino Properties",
+      "description": "Entdecken Sie Luxusimmobilien zum Verkauf und zur Miete in Dubai. Villen, Apartments, Penthäuser in Dubai Marina, Downtown Dubai, Palm Jumeirah und mehr.",
+      "ogTitle": "Immobilien in Dubai - Rino Properties",
+      "ogDescription": "Luxusimmobilien in Dubais prestigeträchtigsten Lagen"
+    },
+    "hero": {
+      "title": "Luxus",
+      "titleHighlight": "Immobilien In",
+      "scroll": "Scrollen",
+      "stats": {
+        "properties": "Immobilien",
+        "cities": "Städte",
+        "featured": "Empfohlen"
+      },
+      "status": {
+        "usingDemo": "Demo-Daten verwenden",
+        "loading": "Immobilien laden...",
+        "error": "API-Fehler"
+      }
+    },
+    "searchResults": {
+      "title": "Suchergebnisse für:",
+      "inDubai": "in Dubai",
+      "clearSearch": "Suche löschen"
+    },
+    "results": {
+      "loading": "Laden...",
+      "propertiesFound": "Immobilien gefunden",
+      "searchResultsFor": "Suchergebnisse für",
+      "inDubai": "in Dubai",
+      "filteredBy": "Gefiltert nach",
+      "in": "in",
+      "demoData": "Demo-Daten"
+    },
+    "loading": {
+      "message": "Dubai-Immobilien laden..."
+    },
+    "error": {
+      "connectionError": "Verbindungsfehler",
+      "tryAgain": "Erneut versuchen"
+    },
+    "noProperties": {
+      "title": "Keine Immobilien gefunden",
+      "message": "Wir konnten keine Immobilien finden, die Ihren aktuellen Suchkriterien entsprechen. Versuchen Sie, Ihre Filter anzupassen.",
+      "clearFilters": "Alle Filter löschen"
+    },
+    "popularAreas": {
+      "title": "Beliebte Gebiete in Dubai",
+      "subtitle": "Entdecken Sie Dubais begehrteste Stadtteile",
+      "properties": "Immobilien",
+      "viewProperties": "Immobilien anzeigen",
+      "dubaiMarina": {
+        "description": "Wohnen am Wasser mit atemberaubendem Blick auf die Marina"
+      },
+      "downtownDubai": {
+        "description": "Ikonische Skyline und Weltklasse-Shopping"
+      },
+      "palmJumeirah": {
+        "description": "Exklusives Inselleben mit privaten Stränden"
+      }
+    },
+    "cta": {
+      "title": "Bereit, in Dubais Zukunft zu investieren?",
+      "description": "Unsere Dubai-Spezialisten sind bereit, Sie durch den dynamischen Immobilienmarkt zu führen und Ihnen bei der Sicherung Ihrer perfekten Investition zu helfen.",
+      "contactTeam": "Dubai-Team kontaktieren",
+      "callPhone": "Anrufen: +971 43 21 2433"
+    }
+  },
+  "spain": {
+    "head": {
+      "title": "Immobilien in Spanien - Rino Properties",
+      "description": "Entdecken Sie Luxusimmobilien zum Verkauf und zur Miete in Spanien. Villen, Apartments und Gewerbeimmobilien in Madrid, Barcelona, Marbella und mehr.",
+      "ogTitle": "Immobilien in Spanien - Rino Properties",
+      "ogDescription": "Luxusimmobilien in Spaniens begehrtesten Lagen"
+    },
+    "hero": {
+      "title": "Luxus",
+      "titleHighlight": "Immobilien In",
+      "scroll": "Scrollen",
+      "stats": {
+        "properties": "Immobilien",
+        "cities": "Städte",
+        "featured": "Empfohlen"
+      },
+      "status": {
+        "loading": "Immobilien laden...",
+        "error": "API-Verbindungsfehler"
+      }
+    },
+    "searchResults": {
+      "title": "Suchergebnisse für:",
+      "inSpain": "in Spanien",
+      "clearSearch": "Suche löschen"
+    },
+    "results": {
+      "loading": "Laden...",
+      "propertiesFound": "Immobilien gefunden",
+      "searchResultsFor": "Suchergebnisse für",
+      "inSpain": "in Spanien",
+      "filteredBy": "Gefiltert nach",
+      "in": "in",
+      "errorMessage": "Immobilien konnten nicht von API geladen werden"
+    },
+    "loading": {
+      "message": "Spanien-Immobilien laden..."
+    },
+    "error": {
+      "connectionFailed": "API-Verbindung fehlgeschlagen",
+      "unableToFetch": "Immobilien konnten nicht vom Server abgerufen werden.",
+      "retryConnection": "Verbindung wiederholen",
+      "contactSupport": "Support kontaktieren"
+    },
+    "noProperties": {
+      "title": "Keine Immobilien gefunden",
+      "message": "Wir konnten keine Immobilien finden, die Ihren aktuellen Suchkriterien entsprechen. Versuchen Sie, Ihre Filter anzupassen.",
+      "clearFilters": "Alle Filter löschen"
+    },
+    "cta": {
+      "title": "Bereit, Ihre spanische Traumimmobilie zu finden?",
+      "description": "Unser Expertenteam ist hier, um Ihnen beim Navigieren des spanischen Immobilienmarkts zu helfen und die perfekte Investition oder das perfekte Zuhause zu finden.",
+      "contactExperts": "Unsere Experten kontaktieren",
+      "callPhone": "Anrufen: +34 635 955 137"
+    }
+  },
+  "propertyFilters": {
+    "title": "Immobilien Filtern",
+    "propertyType": "Immobilientyp",
+    "country": "Land",
+    "city": "Gebiete",
+    "all": "Alle",
+    "featured": "Empfohlen",
+    "allTypes": "Alle Typen",
+    "allCities": "Alle Gebiete",
+    "clearAllFilters": "Alle Filter Löschen",
+    "countries": {
+      "spain": "Spanien",
+      "uae": "VAE"
+    },
+    "status": {
+      "label": "Status",
+      "sold": "Verkauft",
+      "approved": "Genehmigt",
+      "negotiable": "Verhandelbar"
+    },
+    "listingType": {
+      "label": "Angebotstyp",
+      "offPlan": "Bauvorhaben",
+      "readyToMove": "Bezugsfertig"
+    },
+    "sort": {
+      "label": "Sortieren Nach",
+      "featuredFirst": "Empfohlene Zuerst",
+      "priceLowToHigh": "Preis: Niedrig zu Hoch",
+      "priceHighToLow": "Preis: Hoch zu Niedrig",
+      "newestFirst": "Neueste Zuerst"
+    }
+  },
+  "contact": {
+    "title": "Lassen Sie uns Ihre Traumimmobilie finden",
+    "subtitle": "Verbinden Sie sich mit unserem Expertenteam für persönliche Unterstützung bei Premium-Immobilien in Spanien und Dubai",
+    "readyToConnect": "Bereit zu verbinden?",
+    "messageSent": "Nachricht gesendet!",
+    "thankYou": "Vielen Dank für Ihre Kontaktaufnahme. Wir antworten innerhalb von 24 Stunden.",
+    "exploreProperties": "Erkunden Sie unsere Immobilien",
+    "responseTime": "Antwortzeit",
+    "satisfaction": "Zufriedenheit",
+    "getInTouch": "Kontakt aufnehmen",
+    "description": "Ob Sie eine Immobilie in Spanien oder Dubai kaufen, verkaufen oder investieren möchten, unser erfahrenes Team führt Sie durch jeden Schritt Ihrer Immobilienreise.",
+    "scroll": "Scrollen",
+    "visitOffices": "Besuchen Sie unsere Büros",
+    "visitOfficesSubtitle": "Finden Sie uns an unseren günstigen Standorten in Spanien und Dubai",
+    "spain": "Spanien",
+    "dubai": "Dubai",
+    "spainOfficeTitle": "Spanien Büro",
+    "spainOfficeSubtitle": "Málaga Hauptsitz",
+    "dubaiOfficeTitle": "Dubai Büro",
+    "dubaiOfficeSubtitle": "VAE Hauptsitz",
+    "mondayFridaySpain": "Mo - Fr: 9:00 - 18:00 Uhr CET",
+    "sundayThursdayDubai": "So - Do: 9:00 - 18:00 Uhr GST",
+    "sendMessageTitle": "Senden Sie uns eine Nachricht",
+    "sendMessageSubtitle": "Füllen Sie das folgende Formular aus und wir melden uns innerhalb von 24 Stunden bei Ihnen",
+    "form": {
+      "fullName": "Vollständiger Name",
+      "name": "Name",
+      "email": "E-Mail-Adresse",
+      "phone": "Telefonnummer",
+      "subject": "Betreff",
+      "message": "Nachricht",
+      "sendMessage": "Nachricht senden",
+      "sending": "Ihre Nachricht wird gesendet...",
+      "required": "*",
+      "placeholders": {
+        "name": "Ihr Name",
+        "email": "ihre.email@beispiel.com",
+        "phone": "00 000 00 00",
+        "subject": "Wie können wir Ihnen helfen?",
+        "message": "Erzählen Sie uns mehr über Ihre Immobilienanforderungen..."
+      },
+      "validation": {
+        "nameRequired": "Name ist erforderlich",
+        "emailRequired": "E-Mail ist erforderlich",
+        "emailInvalid": "Bitte geben Sie eine gültige E-Mail-Adresse ein",
+        "phoneRequired": "Telefonnummer ist erforderlich",
+        "subjectRequired": "Betreff ist erforderlich",
+        "messageRequired": "Nachricht ist erforderlich",
+        "messageMinLength": "Die Nachricht muss mindestens 10 Zeichen lang sein",
+        "submitError": "Fehler beim Senden der Nachricht. Bitte versuchen Sie es erneut oder kontaktieren Sie uns direkt."
+      }
+    },
+    "info": {
+      "email": "E-Mail",
+      "phone": "Telefon",
+      "officeLocations": "Bürostandorte",
+      "businessHours": "Geschäftszeiten",
+      "mondayFriday": "Montag - Freitag: 9:00 - 18:00 Uhr",
+      "spainOffice": "C/ Ancha del Carmen, 2 - 29002 Málaga.",
+      "dubaiOffice": "Business Village Building – B, Office 330, Deira, Dubai."
+    }
+  },
+  "cta": {
+    "contactUs": "Kontaktieren Sie uns",
+    "getStarted": "Loslegen",
+    "findAgent": "Makler",
+    "viewAll": "Alle anzeigen",
+    "readMore": "Mehr lesen",
+    "learnMore": "Mehr erfahren",
+    "scheduleCall": "Anruf planen",
+    "contactTeam": "Unser Team kontaktieren",
+    "heading": "Bereit, Ihre Traumimmobilie zu finden?",
+    "description": "Rino Properties bietet eine Auswahl exklusiver Immobilien für internationale Käufer in Spaniens Top-Standorten wie Madrid und der Costa del Sol.",
+    "contactExperts": "Unsere Experten kontaktieren"
+  },
+  "locations": {
+    "title": "Rino Properties Top",
+    "titleHighlight": "Featured-Standorte",
+    "subtitle": "Finden Sie Ihre ideale Immobilie. Durchstöbern Sie unsere Premium-Immobilienangebote in Spanien und den VAE.",
+    "filterAll": "Alle",
+    "filterSpain": "Spanien",
+    "filterUAE": "VAE",
+    "imageUnavailable": "Bild nicht verfügbar",
+    "viewProperties": "Immobilien anzeigen in"
+  },
+  "search": {
+    "placeholder": "Immobilientitel, ID oder Standort eingeben",
+    "searchButton": "Suchen",
+    "searching": "Sucht...",
+    "searchingProperties": "Immobilien suchen...",
+    "propertyResults": "Immobilienergebnisse",
+    "noPropertiesFound": "Keine Immobilien gefunden für",
+    "tryDifferentSearch": "Versuchen Sie einen anderen Suchbegriff oder durchsuchen Sie alle Immobilien",
+    "seeAllResults": "Alle Ergebnisse anzeigen für",
+    "beds": "Schlafzimmer",
+    "baths": "Badezimmer",
+    "searchPopup": {
+      "title": "Immobilien suchen",
+      "placeholder": "Nach Standort, Immobilienname oder ID suchen...",
+      "searchResults": "Suchergebnisse",
+      "browseByLocation": "Nach Standort durchsuchen",
+      "spainProperties": "Spanische Immobilien",
+      "uaeProperties": "VAE Immobilien",
+      "allProperties": "Alle Immobilien"
+    }
+  },
+  "propertyCard": {
+    "viewDetails": "Details ansehen",
+    "startingFrom": "Ab",
+    "priceOnRequest": "Preis auf Anfrage",
+    "beds": "Schlafz.",
+    "baths": "Bäder",
+    "area": "Fläche",
+    "bedrooms": "Schlafzimmer",
+    "bathrooms": "Badezimmer",
+    "previousImage": "Vorheriges Bild",
+    "nextImage": "Nächstes Bild",
+    "viewImage": "Bild ansehen",
+    "viewDetailsFor": "Details ansehen für",
+    "viewAllPropertiesIn": "Alle Immobilien ansehen in",
+    "status": {
+      "sold": "Verkauft",
+      "available": "Verfügbar",
+      "negotiable": "Verhandelbar",
+      "approved": "Verfügbar"
+    },
+    "listingType": {
+      "offPlan": "Vom Plan",
+      "readyToMove": "Bezugsfertig"
+    },
+    "propertyTypes": {
+      "villa": "Villa",
+      "apartment": "Wohnung",
+      "penthouse": "Penthouse",
+      "townhouse": "Reihenhaus",
+      "studio": "Studio",
+      "commercial": "Gewerbe",
+      "land": "Grundstück"
+    },
+    "featured": "Empfohlen"
+  },
+  "common": {
+    "loading": "Laden...",
+    "error": "Etwas ist schiefgelaufen",
+    "retry": "Erneut versuchen",
+    "close": "Schließen",
+    "next": "Weiter",
+    "previous": "Zurück",
+    "submit": "Absenden",
+    "cancel": "Abbrechen",
+    "save": "Speichern",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "search": "Suchen",
+    "filter": "Filtern",
+    "sort": "Sortieren",
+    "showMore": "Mehr anzeigen",
+    "showLess": "Weniger anzeigen",
+    "scroll": "Scrollen",
+    "whatsapp": "WhatsApp",
+    "email": "E-Mail",
+    "phone": "Telefon",
+    "address": "Adresse",
+    "searchProperties": "Immobilien suchen",
+    "findAgent": "Makler"
+  },
+  "footer": {
+    "description": "Ihr vertrauensvoller Partner für Luxus-Immobilieninvestitionen in Spanien und den VAE. Träume verwirklichen, Werte schaffen und außergewöhnliche Erfahrungen liefern.",
+    "quickLinks": "Schnelle Links",
+    "followUs": "Folgen Sie uns",
+    "allRightsReserved": "Alle Rechte vorbehalten",
+    "rinoProperties": "Rino Properties",
+    "ourServices": "Unsere Dienstleistungen",
+    "getInTouch": "Kontakt aufnehmen",
+    "spainOfficeLabel": "Büro Spanien",
+    "dubaiOfficeLabel": "Büro Dubai",
+    "phoneLabel": "Telefon",
+    "emailLabel": "E-Mail",
+    "spainOfficeAddress": "C/ Ancha del Carmen, 2 - 29002 Málaga.",
+    "dubaiOfficeAddress": "Business Village Building – B, Office 330, Deira, Dubai.",
+    "phoneNumbers": "+34 635 955 137 | +971 43 21 2433",
+    "emailAddress": "ask@rinoproperties.com",
+    "services": {
+      "propertyInvestment": "Immobilieninvestition",
+      "luxuryRentals": "Luxus-Vermietungen",
+      "goldenVisaAssistance": "Golden Visa Unterstützung",
+      "propertyManagement": "Immobilienverwaltung",
+      "legalAdvisory": "Rechtsberatung",
+      "marketAnalysis": "Marktanalyse"
+    },
+    "links": {
+      "home": "Startseite",
+      "properties": "Immobilien",
+      "about": "Über uns",
+      "services": "Dienstleistungen",
+      "blog": "Blog",
+      "contact": "Kontakt",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfService": "Nutzungsbedingungen",
+      "cookiePolicy": "Cookie-Richtlinie"
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "readMore": "Mehr lesen",
+    "publishedOn": "Veröffentlicht am",
+    "relatedPosts": "Verwandte Beiträge",
+    "latestPosts": "Neueste Beiträge",
+    "section": {
+      "title": "Unsere Neuesten",
+      "titleHighlight": "Blogs",
+      "loadingError": "Blog-Artikel können derzeit nicht geladen werden.",
+      "noPosts": "Keine Blog-Artikel verfügbar.",
+      "byAuthor": "Von",
+      "exploreAll": "Alle Artikel erkunden"
+    },
+    "page": {
+      "title": "Immobilien",
+      "titleHighlight": "Blog",
+      "heroAlt": "Immobilien Blog",
+      "searchPlaceholder": "Artikel durchsuchen...",
+      "showing": "Zeige",
+      "of": "von",
+      "articles": "Artikeln",
+      "offlineSearchTitle": "Offline-Suche verwenden",
+      "offlineSearchMessage": "Wir haben Verbindungsprobleme mit unserem Suchdienst. Die Ergebnisse werden lokal gefiltert und können begrenzt sein.",
+      "loadingTitle": "Artikel werden geladen...",
+      "loadingMessage": "Bitte warten Sie, während wir die neuesten Inhalte abrufen",
+      "errorTitle": "Fehler beim Laden der Artikel",
+      "errorCategoryMessage": "Problem beim Laden der Artikel für",
+      "errorSuggestion": "Sie können versuchen, alle Artikel oder eine andere Kategorie anzuzeigen.",
+      "viewAllArticles": "Alle Artikel anzeigen",
+      "noArticlesTitle": "Keine Artikel gefunden",
+      "noArticlesMessage": "Versuchen Sie, Ihre Such- oder Filterkriterien anzupassen",
+      "byAuthor": "Von"
+    },
+    "filters": {
+      "all": "Alle"
+    },
+    "detail": {
+      "loading": "Artikel wird geladen...",
+      "loadingMessage": "Bitte warten Sie, während wir den Inhalt abrufen",
+      "notFound": "Artikel nicht gefunden",
+      "notFoundMessage": "Der angeforderte Artikel konnte nicht gefunden werden",
+      "backToBlog": "Zurück zum Blog",
+      "views": "Aufrufe",
+      "by": "Von",
+      "marketAnalysis": "Marktanalyse",
+      "marketAnalysisContent": "Unsere umfassende Analyse zeigt starke Wachstumsindikatoren in wichtigen Märkten. Markttrends begünstigen weiterhin strategische Investitionen in erstklassigen Lagen mit ausgezeichneter Konnektivität und Infrastrukturentwicklung.",
+      "investmentStrategies": "Investitionsstrategien",
+      "investmentStrategiesContent": "Strategische Immobilieninvestitionen erfordern sorgfältige Marktanalyse und Timing. Unsere bewährten Strategien helfen Investoren, Renditen zu maximieren und gleichzeitig Risiken durch diversifizierte Portfolio-Ansätze zu minimieren.",
+      "legalFramework": "Rechtlicher Rahmen",
+      "legalFrameworkContent": "Das Verständnis der rechtlichen Aspekte von Immobilieninvestitionen ist entscheidend für den Erfolg. Unser umfassender Leitfaden deckt alle wesentlichen rechtlichen Anforderungen und Verfahren für Immobilieninvestitionen ab.",
+      "lifestyleBenefits": "Lifestyle-Vorteile",
+      "lifestyleBenefitsContent": "Jenseits der Investitionsrenditen bieten Immobilien außergewöhnliche Lifestyle-Vorteile. Entdecken Sie, wie die richtige Immobilienwahl Ihre Lebensqualität verbessern und gleichzeitig langfristigen Wohlstand aufbauen kann.",
+      "interestedIn": "Interessiert an",
+      "expertConsultation": "Verbinden Sie sich mit unseren Experten für exklusive Investitionsmöglichkeiten und detaillierte Immobilieneinblicke.",
+      "getConsultation": "Expertenberatung erhalten",
+      "defaultContent": "Detaillierte Inhalte über den Blog-Beitrag werden hier erscheinen. Dieser Abschnitt bietet tiefgehende Informationen und Einblicke zum Blog-Thema."
+    }
+  },
+  "propertyDetails": {
+    "notFound": {
+      "title": "Immobilie nicht gefunden",
+      "message": "Die gesuchte Immobilie existiert nicht.",
+      "browseAll": "Alle Immobilien durchsuchen"
+    },
+    "stats": {
+      "bedrooms": "SCHLAFZIMMER",
+      "bathrooms": "BADEZIMMER",
+      "area": "FLÄCHE"
+    },
+    "description": {
+      "title": "BESCHREIBUNG"
+    },
+    "amenities": {
+      "title": "AUSSTATTUNG",
+      "noListed": "Keine Ausstattung aufgelistet"
+    },
+    "features": {
+      "title": "EIGENSCHAFTEN",
+      "noListed": "Keine Eigenschaften aufgelistet"
+    },
+    "location": {
+      "title": "STANDORT",
+      "viewOnGoogleMaps": "Auf Google Maps anzeigen"
+    },
+    "inquiry": {
+      "title": "JETZT ANFRAGEN",
+      "successMessage": "Vielen Dank! Ihre Anfrage wurde erfolgreich gesendet.",
+      "errorMessage": "Entschuldigung, es gab einen Fehler beim Senden Ihrer Anfrage. Bitte versuchen Sie es erneut.",
+      "form": {
+        "fullName": "Vollständiger Name",
+        "email": "E-Mail-Adresse",
+        "phone": "Telefonnummer",
+        "message": "Nachricht (Erzählen Sie uns von Ihrem Interesse an dieser Immobilie)",
+        "sending": "Senden...",
+        "sendInquiry": "Anfrage senden"
+      }
+    },
+    "details": {
+      "title": "DETAILS",
+      "propertyId": "IMMOBILIEN-ID",
+      "type": "TYP",
+      "status": "STATUS",
+      "listingType": "ANGEBOTSTYP",
+      "yearBuilt": "BAUJAHR",
+      "country": "LAND",
+      "notAvailable": "Nicht verfügbar",
+      "notSpecified": "Nicht angegeben",
+      "sold": "Verkauft",
+      "negotiable": "Verhandelbar",
+      "available": "Verfügbar",
+      "offPlan": "Bauvorhaben",
+      "readyToMove": "Bezugsfertig"
+    },
+    "cta": {
+      "title": "Bereit, eine Besichtigung zu vereinbaren?",
+      "description": "Kontaktieren Sie unser Expertenteam heute, um eine private Besichtigung dieser außergewöhnlichen Immobilie zu arrangieren.",
+      "callNow": "Jetzt anrufen"
+    },
+    "downloadBrochure": "Broschüre herunterladen",
+    "brochureNotAvailable": "Die Broschüre ist derzeit für diese Immobilie nicht verfügbar. Bitte kontaktieren Sie uns für weitere Informationen.",
+    "brochureError": "Fehler beim Herunterladen der Broschüre. Bitte versuchen Sie es später erneut."
+  },
+  "errors": {
+    "required": "Dieses Feld ist erforderlich",
+    "invalidEmail": "Bitte geben Sie eine gültige E-Mail-Adresse ein",
+    "invalidPhone": "Bitte geben Sie eine gültige Telefonnummer ein",
+    "generic": "Ein Fehler ist aufgetreten. Bitte versuchen Sie es erneut.",
+    "networkError": "Netzwerkfehler. Bitte überprüfen Sie Ihre Verbindung."
+  },
+  "success": {
+    "messageSent": "Ihre Nachricht wurde erfolgreich gesendet!",
+    "subscribed": "Erfolgreich für Newsletter angemeldet!"
+  },
+  "agents": {
+    "title": "Top Immobilienmakler in",
+    "titleHighlight": "Dubai",
+    "description": "Wenn Sie nach den besten Immobilienmaklern in Dubai oder Spanien suchen, sind Sie hier richtig. Bei Rino Properties bringen wir ein Team erfahrener und vertrauenswürdiger Makler zusammen, die sich dafür einsetzen, Ihnen beim Kauf, Verkauf oder Investieren mit Vertrauen zu helfen. Ob Sie Luxusimmobilien in Dubai erkunden oder Ihr Traumhaus in Spanien suchen, unsere Experten bieten maßgeschneiderte Beratung, Markteinblicke und einen kundenorientierten Ansatz, um nahtlose Transaktionen von Anfang bis Ende zu gewährleisten.",
+    "search": {
+      "title": "Suche nach Maklername",
+      "placeholder": "Maklername eingeben...",
+      "language": "Sprache",
+      "allLanguages": "Alle Sprachen",
+      "nationality": "Nationalität",
+      "allNationalities": "Alle Nationalitäten"
+    },
+    "results": {
+      "showing": "Zeige",
+      "agents": "Makler",
+      "agent": "Makler",
+      "matchingCriteria": "die Ihren Kriterien entsprechen"
+    },
+    "card": {
+      "speaks": "Spricht: ",
+      "yearsExperience": "Jahre",
+      "ofExperience": "Erfahrung",
+      "nationality": "Nationalität: ",
+      "viewProfile": "Profil anzeigen",
+      "whatsapp": "WhatsApp"
+    },
+    "noResults": {
+      "title": "Keine Makler gefunden",
+      "message": "Versuchen Sie, Ihre Suchkriterien anzupassen, um weitere Makler zu finden.",
+      "clearFilters": "Alle Filter löschen"
+    },
+    "cta": {
+      "title": "Bereit, Ihre Traumimmobilie zu finden?",
+      "description": "Verbinden Sie sich noch heute mit unseren Expertmaklern und entdecken Sie die perfekte Immobilie in Dubai oder Spanien.",
+      "getStarted": "Heute starten"
+    },
+    "back": "Zurück"
+  },
+  "sell": {
+    "head": {
+      "title": "Verkaufen Sie Ihre Dubai-Immobilie Schnell - KOSTENLOSE Bewertung ",
+      "description": "Verkaufen Sie Ihre Dubai-Immobilie schnell mit Rino Properties. KOSTENLOSE Bewertung, Expertenmarketing & 24/7 Support. Spezialisiert auf Dubai Marina, Downtown & mehr.",
+      "ogTitle": "Verkaufen Sie Ihre Dubai-Immobilie Schnell - Kostenlose Bewertung & Expertenservice ",
+      "ogDescription": "Professionelle Dubai-Immobilienverkaufsdienste. KOSTENLOSE Bewertung, Expertenmarketing, 24/7 Support. Spezialisiert auf Premium-Standorte: Downtown, Marina, JLT, Business Bay, Palm Jumeirah. Kontaktieren Sie uns heute!",
+      "twitterTitle": "Verkaufen Sie Ihre Dubai-Immobilie Schnell - Kostenlose Bewertung ",
+      "twitterDescription": "Professionelle Dubai-Immobilienverkaufsdienste. KOSTENLOSE Bewertung, Expertenmarketing, 24/7 Support. Spezialisiert auf Downtown, Marina, JLT, Business Bay, Palm Jumeirah.",
+      "dcTitle": "Verkaufen Sie Ihre Dubai-Immobilie Schnell - Rino Properties"
+    },
+    "hero": {
+      "title": "Verkaufen Sie Ihre",
+      "titleHighlight": "Immobilie Schnell",
+      "subtitle": "Stressfreier Verkauf mit garantierten Ergebnissen. Wir kümmern uns um alles von der Bewertung bis zum Abschluss.",
+      "features": {
+        "freeValuation": "KOSTENLOSE Professionelle Bewertung",
+        "noHiddenFees": "Keine versteckten Gebühren",
+        "fastSale": "Schnelle Verkaufsgarantie"
+      },
+      "buttons": {
+        "getFreeValuation": "Kostenlose Bewertung Erhalten",
+        "callNow": "Jetzt Anrufen"
+      }
+    },
+    "form": {
+      "title": "Kostenlose Immobilienbewertung",
+      "subtitle": "Lassen Sie Ihre Immobilie von zertifizierten Experten bewerten - Keine Kosten, keine Verpflichtung",
+      "successMessage": "Vielen Dank! Wir werden Sie in Kürze kontaktieren.",
+      "fields": {
+        "fullName": "Vollständiger Name",
+        "email": "E-Mail-Adresse",
+        "phone": "Telefonnummer",
+        "propertyType": "Immobilientyp Auswählen",
+        "location": "Immobilienstandort (z.B. Downtown Dubai, Marina)"
+      },
+      "propertyTypes": {
+        "select": "Immobilientyp Auswählen",
+        "studio": "Studio",
+        "oneBedroom": "1 Schlafzimmer",
+        "twoBedroom": "2 Schlafzimmer",
+        "threeBedroom": "3 Schlafzimmer",
+        "fourPlusBedroom": "4+ Schlafzimmer",
+        "villa": "Villa",
+        "townhouse": "Reihenhaus",
+        "penthouse": "Penthouse",
+        "commercial": "Gewerbe",
+        "other": "Andere"
+      },
+      "submit": "Kostenlose Bewertung Erhalten",
+      "submitting": "Wird gesendet...",
+      "disclaimer": "*Kostenlose Bewertung vorbehaltlich Immobilienbesichtigung. Alle Informationen werden vertraulich behandelt."
+    },
+    "overview": {
+      "title": "Bereit, Ihre",
+      "titleHighlight": " Immobilie zu Verkaufen",
+      "description": "Bereit, Ihre Immobilie in Dubai mit Rino Properties zu verkaufen? Wir haben einen einfachen, bewährten Prozess, der den Verkauf Ihrer Immobilie einfacher und profitabler als je zuvor macht.",
+      "floatingCard": {
+        "title": "KOSTENLOSE Bewertung",
+        "subtitle": "Keine Verpflichtung"
+      },
+      "process": {
+        "step1Title": "Immobiliendetails Einreichen",
+        "step1Description": "Füllen Sie unser einfaches Formular mit Ihren Immobilieninformationen aus",
+        "step2Title": "Professionelle Bewertung",
+        "step2Description": "Unsere Experten liefern eine genaue Marktbewertung",
+        "step3Title": "Strategisches Marketing",
+        "step3Description": "Multiplattform-Marketing erreicht Tausende von Käufern",
+        "step4Title": "Erfolgreicher Abschluss",
+        "step4Description": "Unsere Expertise gewährleistet erfolgreiche Verkäufe von Anfang bis Ende"
+      },
+      "ctaButton": "Starten Sie Ihre Kostenlose Bewertung"
+    },
+    "whyChooseUs": {
+      "title": "Ihr Erfolg ist Unsere",
+      "titleHighlight": " Priorität",
+      "subtitle": "Mit jahrelanger Erfahrung und einer nachgewiesenen Erfolgsbilanz sind wir die vertrauenswürdige Wahl für Dubai-Immobilienverkäufe"
+    }
+  },
+  "leosRoyal": {
+    "subtitle": "Erleben Sie luxuriöses Wohnen vom Feinsten. Leos Royal bietet erstklassige Immobilien mit weltklasse Annehmlichkeiten, exquisitem Design und einem unvergleichlichen Lebensstil.",
+    "form": {
+      "title": "Registrieren Sie Ihr Interesse",
+      "subtitle": "Erhalten Sie exklusiven Zugang zu Leos Royal",
+      "firstName": "Vorname",
+      "lastName": "Nachname",
+      "email": "E-Mail-Adresse",
+      "phone": "Telefonnummer",
+      "investment": "Investitionsbudget",
+      "message": "Nachricht",
+      "submit": "Anfrage senden",
+      "submitting": "Wird gesendet...",
+      "privacy": "Mit dem Absenden dieses Formulars stimmen Sie unserer Datenschutzrichtlinie und unseren Nutzungsbedingungen zu.",
+      "successTitle": "Vielen Dank!",
+      "successMessage": "Wir haben Ihre Anfrage erhalten und werden uns in Kürze bei Ihnen melden."
+    },
+    "about": {
+      "title": "WILLKOMMEN BEI LEOS ROYAL",
+      "description": "Eine Gemeinschaft, die von Stille und Bewegung geprägt ist. LEOS ROYAL ist ein Ort, an dem Architektur zuhört und Wasser atmet, wodurch ein natürlicher Rhythmus entsteht, der den Geist beruhigt und die Sinne besänftigt, während die Umgebung sanft reagiert, um einen Lebensstil zu bieten, der erdend und fließend wirkt. Als weltweit erste KI-gestützte Gemeinschaft ist Innovation nahtlos in diese ruhige Atmosphäre eingewoben, die Gelassenheit verstärkt, anstatt sie zu unterbrechen, wobei Technologie leise im Hintergrund arbeitet, um eine Zukunft zu gestalten, die sich sanft entfaltet, wie Licht über stilles Wasser."
+    },
+    "vision": {
+      "title": "EINE VISION, DIE IN REFLEXION VERWURZELT IST",
+      "description": "LEOS ROYAL wird als ruhiger Rückzugsort konzipiert, an dem Wasser, Licht und Architektur in stiller Harmonie zusammentreffen, wobei jedes Element Klarheit und Ruhe wiederherstellt, um einen Ort zu schaffen, an dem das Leben langsamer wird und bewusster wird. Die Räume bleiben offen, fließend und einladend, gestaltet, um das tägliche Leben zu verbessern, ohne die Sinne zu überfordern, wodurch das moderne Leben weicher und menschlicher wird, da es einem ausgewogenen Rhythmus folgt, der Reflexion und Präsenz fördert. Der Fortschritt entfaltet sich hier sanft, wie Licht, das über stilles Wasser gleitet."
+    },
+    "philosophy": {
+      "title": "DIE PHILOSOPHIE DER REFLEXION",
+      "description": "LEOS ROYAL wird durch das Zusammentreffen von Wasser und Licht geprägt und schafft eine Landschaft, in der Bewegung und Stille koexistieren, da Kanäle, Wasserfälle und reflektierende Oberflächen Momente der Ruhe bieten, die den ganzen Tag über Gleichgewicht wiederherstellen. Jedes Detail ist darauf ausgelegt, emotionale Leichtigkeit und natürliche Harmonie hervorzurufen und eine Philosophie zu verkörpern, die Tiefe über Intensität durch subtiles Design und sanfte Übergänge schätzt. Das Ergebnis ist eine zeitlose, geerdete Gemeinschaft, die Sie einlädt, sich auf einer tieferen, bedeutungsvolleren Ebene wieder mit dem Leben zu verbinden."
+    },
+    "architecture": {
+      "title": "FORM JENSEITS DER ARCHITEKTUR",
+      "description": "Das Design bei LEOS ROYAL wird durch Absicht geprägt und von der natürlichen Umgebung geleitet, wo geschwungene Formen, weiche Materialien und lichtdurchflutete Oberflächen ein Gefühl ruhiger Raffinesse schaffen. Wasser spielt eine zentrale Rolle, kühlt die Luft, formt die Stimmung und fügt fließende Bewegung über die Landschaft hinzu, während die Architektur sanft mit Sonnenlicht und täglichen Rhythmen wechselt, um ruhige, nahtlose Übergänge zu schaffen. Es ist ein Ort, der auf Sie reagiert und Räume bietet, die sich lebendig, fließend und bewusst für Komfort und Wohlbefinden gestaltet anfühlen."
+    },
+    "unitSizes": {
+      "title": "EINHEITENGRÖSSEEN",
+      "subtitle": "LEOS ROYAL bildet eine Konstellation der Ruhe. Jede einzigartig in Form und vereint im Geist.",
+      "townhouses": "Reihenhäuser mit 3 und 4 Schlafzimmern und Dienstmädchenzimmer haben eine geschätzte verkaufbare Größe von 2.407 bis 3.233 Quadratfuß",
+      "villas": "Villen mit 5 bis 7 Schlafzimmern, Dienstmädchen- und Fahrerzimmern haben eine geschätzte verkaufbare Größe von 4.200 bis 7.080 Quadratfuß"
+    },
+    "amenities": {
+      "title": "WELTKLASSE-ANNEHMLICHKEITEN",
+      "description": "Als weltweit erste KI-gestützte Gemeinschaft verbessert LEOS ROYAL das alltägliche Leben durch intuitive, nahtlose Technologie und webt Innovation mühelos in die Umgebung ein, von der KI-Wellness-Arena unter der Leitung von Rio Ferdinand bis zum intelligenten Aurora Walk. Jedes Erlebnis ist darauf ausgelegt, Gesundheit, Komfort und sinnvolles Engagement zu unterstützen.",
+      "wellness": "KI-WELLNESSBEREICH",
+      "reflection": "KI-REFLEXIONSCLUB",
+      "atelier": "KI-ATELIER-STRASSE",
+      "aurora": "KI-AURORA-WEG",
+      "halo": "KI-HALO-HAFEN",
+      "rhythm": "KI-RHYTHMUS-LOUNGE",
+      "family": "KI-FAMILIENENTDECKUNG"
+    },
+    "location": {
+      "title": "STRATEGISCHE LAGE",
+      "description": "Direkt an der Al Ain Road gelegen, gegenüber der Dubai Outlet Mall, befindet sich LEOS Royal in einer der strategischsten und bestvernetzten Lagen Dubais, nur 16 Minuten von Downtown Dubai entfernt. Diese erstklassige Adresse bietet reibungslosen Zugang zum Dubai International Airport und wichtigen Stadtkorridoren und hält wichtige Ziele bequem in Reichweite. Umgeben von führenden Schulen, Freizeitattraktionen und schnell wachsender Infrastruktur entwickelt sich der Bezirk zu einem hochwertigen Zentrum für Familien, Berufstätige und Investoren. Bei LEOS Royal kommen Komfort, Konnektivität und langfristiges Wachstum in einer für die Zukunft gestalteten Umgebung zusammen."
+    },
+    "contactForm": {
+      "title": "Kontaktformular",
+      "submit": "Absenden"
+    }
+  },
+  "gfs": {
+    "head": {
+      "title": "Besitzen Sie Ihr Dubai-Zuhause ab AED 999/Monat | 0,5% Zahlungsplan ",
+      "description": "Besitzen Sie Ihr Zuhause im Herzen Dubais ab nur AED 999/Monat. Flexibler 0,5% Zahlungsplan, nur 5% Anzahlung. GFS Developments. Buchen Sie heute mit AED 25.000!",
+      "keywords": "Dubai Immobilien Zahlungsplan, 0,5% Zahlungsplan Dubai, AED 999 monatlich, Dubai Häuser, GFS Developments, Dubai Immobilien flexible Zahlung, 5% Anzahlung Dubai"
+    },
+    "hero": {
+      "slides": {
+        "slide1": {
+          "badge": "Flexibler 0,5% Zahlungsplan",
+          "title": "Besitzen Sie Ihr Zuhause im Herzen Dubais",
+          "subtitle": "Ab nur AED 999/Monat",
+          "description": "Flexibler 0,5% Zahlungsplan • Nur 5% Anzahlung • Erstklassige Anbindung an Dubai Marina, Downtown & Al Maktoum Flughafen",
+          "infoCards": {
+            "location": "Herz von Dubai",
+            "propertyTypes": "Studios, 1 & 2 SZ",
+            "monthlyPayment": "Ab AED 999/Monat"
+          }
+        },
+        "slide2": {
+          "badge": "GFS Developments",
+          "title": "Vertrauensvoller Entwickler",
+          "subtitle": "Premium-Qualität",
+          "description": "Entwickelt von GFS Developments mit nachgewiesener Erfolgsbilanz. Qualitätsbau, nachhaltige Entwicklung und gemeinschaftsorientiertes Leben.",
+          "infoCards": {
+            "location": "Premium-Standorte",
+            "quality": "Qualitätsbau",
+            "track": "Nachgewiesene Erfolgsbilanz"
+          }
+        },
+        "slide3": {
+          "badge": "Strategische Investition",
+          "title": "Moderne Gemeinschaft",
+          "subtitle": "Wohnexzellenz",
+          "description": "Durchdacht geplante Grünflächen, Infinity-Pool, Business-Center und soziale Räume. Perfekt für modernes Stadtleben.",
+          "infoCards": {
+            "area": "Hochwachstumsgebiet",
+            "amenities": "Premium-Ausstattung",
+            "investment": "Investitionspotenzial"
+          }
+        }
+      },
+      "buttons": {
+        "virtualTour": "Virtuelle Tour",
+        "bookNow": "Jetzt buchen"
+      },
+      "discoverMore": "Mehr entdecken"
+    },
+    "contact": {
+      "title": "Bereit, Ihr Dubai-Zuhause zu besitzen?",
+      "description": "Kontaktieren Sie unser Expertenteam, um mehr über unseren flexiblen 0,5% Zahlungsplan zu erfahren und sichern Sie sich Ihre Immobilie mit nur AED 25.000.",
+      "buttons": {
+        "virtualTour": "Virtuelle Tour buchen",
+        "bookNow": "Jetzt buchen"
+      },
+      "contactDetails": {
+        "email": {
+          "title": "E-Mail an uns",
+          "value": "khaled@rinoproperties.com"
+        },
+        "phone": {
+          "title": "Rufen Sie uns an",
+          "value": "+971 54 401 2269"
+        },
+        "location": {
+          "title": "Besuchen Sie uns",
+          "value": "Dubai, VAE"
+        }
+      }
+    },
+    "projects": {
+      "title": "PROJEKTE",
+      "coventryGardens2": {
+        "title": "Coventry Gardens 2",
+        "price": "AB 622.000 AED *",
+        "location": "Dubai Land Residential Complex",
+        "propertyTypes": "Studios, 1 & 2 SZ Apartments"
+      },
+      "coventryGardens": {
+        "title": "Coventry Gardens",
+        "price": "AB 576.000 AED *",
+        "location": "Dubai Land Residential Complex",
+        "propertyTypes": "Studios, 1 & 2 SZ Apartments"
+      },
+      "coventry66": {
+        "title": "Coventry 66",
+        "price": "AB 525.000 AED *",
+        "location": "Dubai Land Residential Complex",
+        "propertyTypes": "Studios, 1 & 2 SZ Apartments"
+      },
+      "cta": {
+        "title": "Interesse an unseren Projekten?",
+        "description": "Erfahren Sie mehr über unsere Premium-Entwicklungen und flexiblen Zahlungspläne",
+        "getInfo": "Weitere Informationen erhalten",
+        "virtualTours": "Virtuelle Touren"
+      }
+    },
+    "benefits": {
+      "title": "Warum dieses Angebot wählen",
+      "description": "Erleben Sie Premium-Leben in Dubai mit beispielloser Zugänglichkeit und Flexibilität",
+      "flexiblePayment": {
+        "title": "Flexibler Zahlungsplan",
+        "bookingAmount": "Zahlen Sie AED 25.000 und buchen Sie jetzt",
+        "monthlyInstallment": "Raten ab nur AED 999/Monat",
+        "downPayment": "Nur 5% Anzahlung"
+      },
+      "strategicLocation": {
+        "title": "Strategische Lage",
+        "heartOfDubai": "Im Herzen von Dubai",
+        "metroStation": "Nah zur Metro-Station",
+        "dubaiMarina": "15 Min zur Dubai Marina",
+        "mallOfEmirates": "20 Min zur Mall of the Emirates"
+      },
+      "trustedDeveloper": {
+        "title": "Vertrauensvoller Entwickler",
+        "developer": "GFS Developments",
+        "track": "Nachgewiesene Erfolgsbilanz",
+        "projects": "Premium-Projekte wie Coventry Gardens",
+        "development": "Qualitäts- & nachhaltige Entwicklung"
+      },
+      "modernLiving": {
+        "title": "Modernes Gemeinschaftsleben",
+        "propertyTypes": "Studios, 1 & 2-Zimmer-Apartments",
+        "amenities": "Infinity-Pool & Business-Center",
+        "greenSpaces": "Grünflächen & landschaftlich gestaltete Gärten",
+        "virtualTours": "Virtuelle Apartment-Touren verfügbar"
+      }
+    },
+    "investment": {
+      "headerTitle": "Investitionspotenzial & Zugänglichkeit",
+      "learnMore": "Mehr erfahren",
+      "whyThisOffer": "Warum dieses Angebot sinnvoll ist",
+      "accessibility": {
+        "title": "✓ Zugänglichkeit",
+        "description": "Der 0,5% Zahlungsplan und AED 999/Monat machen Immobilien für eine breite Käuferschicht zugänglicher. Sie brauchen kein massives Vorabkapital mehr, um Immobilien in Dubais Premium-Lagen zu besitzen."
+      },
+      "lowEntry": {
+        "title": "✓ Niedrige Einstiegskosten",
+        "description": "Mit nur 5% Anzahlung brauchen Sie kein riesiges Anfangskapital zum Start. Diese revolutionäre Zahlungsstruktur öffnet Türen zum Immobilieneigentum, die vorher unerreichbar waren."
+      },
+      "primeLocation": {
+        "title": "✓ Premium-Standort-Vorteile",
+        "description": "Strategische Anbindung an Dubais Hauptsehenswürdigkeiten und Verkehrsknotenpunkte verbessert sowohl das Wohnerlebnis als auch den Investitionswert. Gelegen in hochwachsenden Gebieten mit starkem Langzeitpotenzial."
+      },
+      "highlights": {
+        "title": "Investitions-Highlights",
+        "offPlan": {
+          "title": "Off-Plan-Möglichkeiten",
+          "description": "Früh einsteigen mit flexiblen Zahlungsplänen"
+        },
+        "highGrowth": {
+          "title": "Hochwachstums-Standort",
+          "description": "Dubai Land Residential Complex, Dubai Süd"
+        },
+        "longTerm": {
+          "title": "Langfristige Wertsteigerung",
+          "description": "Starke Mietrenditen und Kapitalwachstumspotenzial"
+        }
+      },
+      "connectivity": {
+        "title": "Strategische Konnektivität",
+        "airport": {
+          "location": "Nah zum Al Maktoum Flughafen",
+          "benefit": "Großartig für Reisende"
+        },
+        "marina": {
+          "location": "15 Min zur Dubai Marina",
+          "benefit": "Waterfront-Lifestyle"
+        },
+        "downtown": {
+          "location": "30 Min zu Downtown Dubai",
+          "benefit": "Burj Khalifa-Bereich"
+        }
+      }
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "description": "Erhalten Sie Antworten auf die häufigsten Fragen zu unserem flexiblen Zahlungsplan",
+      "q1": {
+        "question": "Was genau ist der 0,5% Zahlungsplan?",
+        "answer": "Es bedeutet, dass Sie jeden Monat nur 0,5% des Gesamtapartmentpreises zahlen, wodurch die Raten sehr überschaubar werden. Zum Beispiel bei einer Immobilie im Wert von AED 500.000 wäre Ihre monatliche Zahlung nur AED 2.500."
+      },
+      "q2": {
+        "question": "Brauche ich wirklich nur 5% Anzahlung?",
+        "answer": "Ja — mit unserem Plan zahlen Sie nur 5% im Voraus, um Ihre Immobilie zu reservieren, dann setzen Sie mit niedrigen monatlichen Zahlungen fort. Dieser revolutionäre Ansatz macht Dubai-Immobilieneigentum für mehr Menschen zugänglich."
+      },
+      "q3": {
+        "question": "Ist AED 999/Monat garantiert?",
+        "answer": "Ja, AED 999/Monat ist der Startpunkt für unsere erschwinglichsten Einheiten. Die genaue monatliche Zahlung hängt von der Immobiliengröße und dem Gesamtpreis ab, aber wir stellen sicher, dass alle Zahlungen durch unseren 0,5% Monatsplan überschaubar bleiben."
+      },
+      "q4": {
+        "question": "Wie ist die Lage so gut angebunden?",
+        "answer": "Unsere Entwicklung liegt strategisch im Herzen Dubais mit nahegelegenen Metro-Stationen, 15 Minuten zur Dubai Marina, 20 Minuten zur Mall of the Emirates und 30 Minuten zu Downtown Dubai. Plus, nah zum Al Maktoum Flughafen für ausgezeichnete Anbindung."
+      },
+      "q5": {
+        "question": "Wann ist die Übergabe?",
+        "answer": "Das geschätzte Übergabedatum ist Q2 2027. Wir bieten regelmäßige Bauupdates und halten Transparenz während des gesamten Entwicklungsprozesses aufrecht, um Sie über den Fortschritt informiert zu halten."
+      },
+      "q6": {
+        "question": "Ist GFS ein vertrauensvoller Entwickler?",
+        "answer": "Ja — GFS Developments hat jahrzehntelange Erfahrung, ISO-Zertifizierungen und einen Ruf für Qualität und gemeinschaftsorientierten Design. Sie haben erfolgreich Premium-Wohnprojekte wie Coventry Gardens geliefert und zeigen damit ihr Engagement für Exzellenz."
+      }
+    },
+    "virtualTour": {
+      "title": "Virtuelle Immobilientour"
+    },
+    "registrationPopup": {
+      "title": "Reservieren Sie Ihr Zuhause",
+      "project": "GFS Entwicklung - Dubai Immobilie",
+      "source": "GFS Entwicklungsseite",
+      "leadType": "Immobilienreservierung",
+      "form": {
+        "fullName": "Vollständiger Name *",
+        "email": "E-Mail-Adresse *",
+        "phone": "Telefonnummer *",
+        "nationality": "Nationalität (Optional)",
+        "nationalityOptions": {
+          "uae": "VAE",
+          "india": "Indien",
+          "uk": "Vereinigtes Königreich",
+          "spain": "Spanien",
+          "germany": "Deutschland",
+          "usa": "Vereinigte Staaten",
+          "other": "Andere"
+        },
+        "consent": "Ich stimme zu, von Rino Properties kontaktiert zu werden.",
+        "submit": "Jetzt buchen - AED 25.000"
+      }
+    },
+    "floatingButtons": {
+      "call": "Rufen Sie uns an",
+      "whatsapp": "Kontaktieren Sie uns auf WhatsApp"
+    }
+  },
+  "dubaiMaritime": {
+    "head": {
+      "title": "Dubai Maritime City Immobilien - Luxuriöses Wohnen am Wasser ",
+      "description": "Entdecken Sie Premium-Immobilien am Wasser in Dubai Maritime City. Luxustürme, Yachthafenblicke und weltklasse Annehmlichkeiten. Fachkundige Beratung von Rino Properties.",
+      "keywords": "Dubai Maritime City, Wasserfront Immobilien Dubai, Luxustürme Dubai, Marina Immobilien, Dubai Immobilien, Breez by Danube, Maritime City Türme"
+    },
+    "hero": {
+      "slides": {
+        "slide1": {
+          "badge": "Höchster Wasserfront-Turm in Maritime City",
+          "title": "Breez",
+          "subtitle": "von Danube",
+          "description": "Dubais höchster Wohnturm an der Wasserfront. 60 Etagen vollständig möblierter Luxus mit über 40 Resort-Annehmlichkeiten.",
+          "infoCards": {
+            "location": "Dubai Maritime City",
+            "building": "60-Etagen Turm",
+            "completion": "Fertigstellung: März 2029"
+          }
+        },
+        "slide2": {
+          "badge": "Premium Wasserfront-Leben",
+          "title": "Marina",
+          "subtitle": "Luxusresidenzen",
+          "description": "Erleben Sie unvergleichliches Luxusleben mit Panoramablick auf den Yachthafen. Premium-Annehmlichkeiten und weltklasse Einrichtungen erwarten Sie.",
+          "infoCards": {
+            "location": "Prime Wasserfront",
+            "building": "Luxusapartments",
+            "status": "Bereit zum Einzug"
+          }
+        },
+        "slide3": {
+          "badge": "Exklusive Entwicklung",
+          "title": "Meeresküste",
+          "subtitle": "Elite-Kollektion",
+          "description": "Entdecken Sie den Inbegriff luxuriösen Küstenlebens. Exklusive Wasserfront-Immobilien mit privatem Strandzugang und Premium-Annehmlichkeiten.",
+          "infoCards": {
+            "location": "Strandzugang",
+            "building": "Elite-Villen",
+            "status": "Limitierte Auflage"
+          }
+        }
+      },
+      "buttons": {
+        "enquiryNow": "Jetzt Anfragen",
+        "contactWhatsapp": "Per WhatsApp Kontaktieren"
+      },
+      "discoverMore": "Mehr Entdecken"
+    },
+    "advantages": {
+      "title": "5 HAUPTVORTEILE DES WOHNENS &",
+      "titleHighlight": "INVESTIERENS IN MARITIME CITY",
+      "modernSeaside": {
+        "title": "Moderne Küstengemeinde",
+        "description": "Veraltete Gebiete wie Dubai Marina können nicht mithalten – jedes Projekt in Maritime City bietet moderne Annehmlichkeiten für einen wirklich verbesserten Lebensstil."
+      },
+      "wellPlanned": {
+        "title": "Gut Geplantes Hauptprojekt",
+        "description": "Der Masterplan umfasst Yachtclubs, Yachthäfen, Wassersporteinrichtungen, Promenaden, üppige Landschaften und nahtlos integrierte Freizeit- und Erholungszonen."
+      },
+      "integratedEcosystem": {
+        "title": "Integriertes Maritimes Ökosystem & Geschäftszentrum",
+        "description": "Genannt unter den besten Privatstränden der VAE – vergänglich und unberührt."
+      },
+      "fastGrowth": {
+        "title": "Schnelles Wachstum & Hohe Mietrenditen",
+        "description": "Küstengebiete wachsen jährlich um 15-18% und steigern sowohl Immobilienwert als auch Miete. Frühe Investoren in Maritime City können 9-10% ROI vs. 5-7% am Sekundärmarkt erzielen."
+      },
+      "premiumCommunities": {
+        "title": "Umgeben von Premium Emaar-Gemeinden",
+        "description": "Der regierungsunterstützte Entwickler Emaar baut in der Nähe und stellt sicher, dass die Insel von hochwertigen Projekten umgeben ist – was Wert, Prestige und langfristige Attraktivität zu Maritime City hinzufügt."
+      }
+    },
+    "centralConnected": {
+      "title": "ZENTRAL & VERBUNDEN",
+      "description": "Nur 10 Minuten von Downtown entfernt ist Dubai Maritime City einer der nächstgelegenen Küstenstandorte zum Stadtzentrum. Der Masterplan der Insel umfasst moderne Hochhäuser mit wunderschönem Meerblick und in einigen Fällen Blick auf Downtown Dubai. Top-Entwickler bauen hauptsächlich im nordöstlichen Teil der Insel. Während sich das Gebiet einst auf die Meerestechnik konzentrierte, ändert sich der Plan, um eine private und ruhige Küstengemeinde zu schaffen. Mit der vollständigen Entwicklung, die für 2028-2029 erwartet wird, wird starkes Preiswachstum erwartet.",
+      "travelTimes": {
+        "dubaiAirport": "Dubai International Airport (DXB)",
+        "burjKhalifa": "Burj Khalifa",
+        "dubaiMall": "The Dubai Mall",
+        "mallEmirates": "Mall of the Emirates",
+        "palmJumeirah": "Palm Jumeirah",
+        "dubaiMarina": "Dubai Marina",
+        "times": {
+          "airport": "13 min",
+          "burj": "10 min",
+          "mall": "10 min",
+          "emirates": "20 min",
+          "palm": "25 min",
+          "marina": "20 min"
+        }
+      }
+    },
+    "projects": {
+      "title": "Projekte in Dubai Maritime City",
+      "ilVento": {
+        "title": "Il Vento Premium Residenzen",
+        "location": "Dubai Maritime City",
+        "badges": ["APARTMENTS", "PENTHÄUSER"],
+        "status": "Bereit zum Einzug",
+        "progress": "40/60"
+      },
+      "breez": {
+        "title": "Breez von Danube",
+        "location": "Dubai Maritime City",
+        "badges": ["APARTMENTS", "STUDIOS"],
+        "status": "Übergabe 2029 Q2",
+        "progress": "70/30"
+      },
+      "above31": {
+        "title": "31 Above",
+        "location": "Dubai Maritime City",
+        "badges": ["BÜROS"],
+        "status": "Übergabe 2029 Q1",
+        "progress": "50/50"
+      },
+      "enquireNow": "Jetzt Anfragen"
+    },
+    "expertHelp": {
+      "title": "Unser Experte Wird Ihnen Helfen",
+      "contactUs": "Kontaktieren Sie Uns"
+    },
+    "about": {
+      "title": "Über das Dubai Maritime City Gebiet",
+      "content1": "Dubai Maritime City (DMC) ist ein Wahrzeichen, das der maritimen, kommerziellen und Kreuzfahrtindustrie gewidmet ist. Das Gebiet liegt zwischen Dubai Creek und Dubais historischen Häfen, die Büro-, Gewerbe- und Einzelhandelsflächen, Waterfront-Bezirk sowie das Maritime District bieten, das landeseigenen maritimen Einrichtungen gewidmet ist.",
+      "content2": "Der Hauptentwickler dieses Stadtteils ist DP World, das mit Architekturberatern aus Europa und Asien zusammenarbeitet, um dieses Gebiet zu regenerieren. Das Dubai Maritime City-Projekt soll bis Ende 2030 abgeschlossen sein. Es würde die Anforderungen der Elite-Klasse semi-professioneller Entwicklungswelt aus der maritimen, kommerziellen und Kreuzfahrtindustrie erfüllen. Das Projekt wird rund 227 Hektar umfassen, die direkt besessen und betrieben werden.",
+      "content3": "Laut dem Masterplan wird DMC entwickelt, um einen Cluster von fünf nautischen Unternehmen ohne Stufe und vielfältige Eigentümer zu schaffen, einschließlich maritime und Kreuzfahrt, Gastfreundschaft, Marina, Bildung und das Gebiet sollte in der Nähe des internationalen Kreuzfahrtterminals entwickelt werden. Es gibt eine vollständige Finanzierung zur Integration der Erwarteten im DMC."
+    },
+    "economic": {
+      "title": "Wirtschaftliche Attraktivität",
+      "businessProperties": "Geschäftsimmobilien",
+      "residences": "Residenzen",
+      "content1": "Dieser Bezirk kann effektive und attraktive Partnerschaften mit relevanten Regierungsbehörden, privaten Unternehmen und Interessengruppen anbieten, mit dem Ziel, einen sicheren und dynamischen maritimen Sektor zu schaffen und die wirtschaftliche Nachhaltigkeit und das Wachstum im Emirat zu gewährleisten. Das Büro strebt danach, seine Arbeit zu übertreffen und effektive Richtlinien zu erheben, um eine umfassende Basis für maritime Sicherheit zu bieten und die besten maritimen Dienstleistungen für die Öffentlichkeit zu implementieren, in Übereinstimmung mit lokalen und internationalen Gesetzen. Dadurch wird es ein umfassendes Überprüfungssystem bereitstellen.",
+      "content2": "Der Hauptteil von Dubai Maritime City wird das Maritime Zentrum sein, das Schlüsselprojekte wie Apartment- und Innenraumpläne für maritime Angelegenheiten sowie luxuriöse Hotels, Restaurants, Einzelhandels-Wohnapartments und Büros umfassen wird.",
+      "content3": "Fast alle Bereiche in Dubai Maritime City Phase 1 einschließlich Straßenarbeiten, Grundstücksregistrierungen, stark hinzugefügte Netzwerke und öffentliche Raumnetze wurden abgeschlossen. Dieses Gebiet wird Dubai Maritime-Einrichtungen anziehen, die die größten sind.",
+      "content4": "Das Zentrum des Gebiets wird das Maritime Zentrum genannt, wo es 8 Wasserfronten und 3 Innenräume geben wird. Es umfasst Annehmlichkeits-Arbeitseinrichtungen wie Hotels, Restaurants, Einzelhandel und Bürodienstleistungen.",
+      "keyFeatures": {
+        "title": "Schlüsselentwicklungsmerkmale",
+        "feature1": "Das Industrieviertel, das Schiffsausrüstungen und Yachtreparatureinrichtungen gewidmet ist",
+        "feature2": "Akademisches Viertel für Meerestechnik und Transportausbildung",
+        "feature3": "Über 100 Bürogebäude und 130+ Lagerhäuser geplant",
+        "feature4": "Kreuzfahrtturm und Büroeinrichtungen an strategischen Standorten"
+      },
+      "development": {
+        "title": "Entwicklungszeitleiste & Fertigstellung",
+        "description": "Sobald Dubai Maritime City abgeschlossen ist, wird das Gebiet rund fünfzehn Türme beherbergen. Wahrzeichen-Turm, der am Kopf des Gebiets mit einem 5-Sterne-Hotel angesiedelt wird, sowie 15 Türme, die in verschiedenen Bereichen der Entwicklung einschließlich beider rund um den Hafen gelegen sind.",
+        "completion": {
+          "title": "Projektfertigstellung",
+          "description": "Erwartete Fertigstellung bis Ende 2030"
+        },
+        "area": {
+          "title": "Gesamtfläche",
+          "description": "227 Hektar integrierte Entwicklung"
+        }
+      },
+      "imageCaption": "Das Industrieviertel wird Schiffsausrüstungen, Einrichtungen und Yachtreparatur und -bau gewidmet sein, sowie über hundert Lagerhäuser, die in der Zone angesiedelt werden. Das Marine District und Hafenentwicklung wird Aktivitätsbereichen für Yachtzentren gewidmet sein, einschließlich Restaurants, Hotels und anderen Einrichtungen. Es gibt auch die Möglichkeit, 15 Türme hinzuzufügen, die an der Front des Tors angesiedelt sind, wo es ein Kreuzfahrtterminal und Bürobau geben wird."
+    },
+    "contact": {
+      "title": "Bereit zu Investieren?",
+      "description": "Kontaktieren Sie unser Expertenteam, um mehr über Breez von Danube zu erfahren und Ihr luxuriöses Wasserfront-Zuhause zu sichern.",
+      "emailUs": "E-Mail Uns",
+      "whatsapp": "WhatsApp"
+    },
+    "modal": {
+      "title": "Dubai Maritime City",
+      "success": {
+        "title": "Anfrage Erfolgreich Gesendet!",
+        "description": "Unsere Dubai-Immobilienexperten werden Sie innerhalb von 24 Stunden kontaktieren.",
+        "email": "ask@rinoproperties.com",
+        "phone": "+971 43 21 2433"
+      },
+      "form": {
+        "fullName": "Vollständiger Name *",
+        "email": "E-Mail-Adresse *",
+        "phone": "Telefonnummer *",
+        "propertyInterest": "Immobilieninteresse",
+        "message": "Zusätzliche Anforderungen",
+        "placeholders": {
+          "name": "Max Mustermann",
+          "email": "max.mustermann@beispiel.com",
+          "phone": "+971 43 21 2433",
+          "message": "Erzählen Sie uns von Ihren spezifischen Anforderungen, bevorzugten Grundrissen, Zahlungsplänen oder Fragen, die Sie haben..."
+        },
+        "propertyOptions": {
+          "select": "Immobilienart auswählen",
+          "breez": "Breez von Danube",
+          "ilVento": "Il Vento Premium Residenzen",
+          "above31": "31 Above",
+          "studio": "Studio-Apartments",
+          "oneBed": "1-Schlafzimmer Apartments",
+          "twoBed": "2-Schlafzimmer Apartments",
+          "threeBed": "3-Schlafzimmer Apartments",
+          "penthouse": "Penthäuser",
+          "commercial": "Gewerbeimmobilien",
+          "investment": "Investitionsmöglichkeiten"
+        },
+        "submit": "Anfrage Senden",
+        "sending": "Anfrage Wird Gesendet...",
+        "error": "Fehler beim Senden der Anfrage. Bitte versuchen Sie es erneut oder kontaktieren Sie uns direkt.",
+        "consent": "Durch das Absenden dieses Formulars stimmen Sie zu, von unseren Immobilienberatern bezüglich Dubai Maritime City-Immobilien kontaktiert zu werden."
+      }
+    },
+    "floatingButtons": {
+      "callUs": "Rufen Sie uns an",
+      "whatsappContact": "Kontaktieren Sie uns per WhatsApp"
+    }
+  }
+}
